@@ -1,0 +1,63 @@
+
+georss::write@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php$ $("1*“
+2@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php& &($s
+q
+@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php& &(#
+georss"
+	namespace"__id*
+
+
+$namespacek
+i
+@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php' '(!
+%1"__concat*
+
+
+$namespace*
+:e
+c
+@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php' '(!
+georss"
+nss"__id*
+
+%1*
+3*ô
+3@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php) )(.wu
+@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php) )(-
+%2*
+
+georss*
+
+	$geometry2geometrytogeorss`
+^
+@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php) )(.
+%2string"__id*
+
+%2"R
+@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php) )(.
+
+%2string*¿
+1@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php% %(p
+n
+@
+6/app/iznik-server/lib/geoPHP/adapters/GeoRSS.class.php$ $(
+	$geometry"__id*
+
+	$geometrygeometry*
+2
+3:
+	$geometrygeometry:
+
+$namespaceB
+
+georss

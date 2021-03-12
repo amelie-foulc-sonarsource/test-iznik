@@ -1,0 +1,49 @@
+
+ freegle\iznik\tryst::__construct2
+(/app/iznik-server/include/user/Tryst.php ("1*[
+2
+	Tryst.php"I
+2
+(/app/iznik-server/include/user/Tryst.php (
+implicit return*ù
+12
+(/app/iznik-server/include/user/Tryst.php (Ni
+g
+2
+(/app/iznik-server/include/user/Tryst.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdoi
+g
+2
+(/app/iznik-server/include/user/Tryst.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdok
+i
+2
+(/app/iznik-server/include/user/Tryst.php; (L
+%1"__id*'*%
+freegle\iznik\tryst"
+
+publicattsõò
+2
+(/app/iznik-server/include/user/Tryst.php (M
+%2*
+freegle\iznik\tryst*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+
+trysts*	
+tryst*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\tryst

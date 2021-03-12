@@ -1,0 +1,72 @@
+SonarCloud plugins:
+  - SonarCSS 1.2.1.1602 (cssfamily)
+  - PL/SQL Code Quality and Security 3.6.0.3724 (plsql)
+  - Scala Code Quality and Security 1.8.2.1946 (sonarscala)
+  - C# Code Quality and Security 8.19.0.28253 (csharp)
+  - Vulnerability Analysis 8.7.0.7826 (security)
+  - Java Code Quality and Security 6.13.0.25138 (java)
+  - HTML Code Quality and Security 3.3.0.2534 (web)
+  - Flex Code Quality and Security 2.6.0.2294 (flex)
+  - XML Code Quality and Security 2.1.0.2861 (xml)
+  - VB.NET Code Quality and Security 8.19.0.28253 (vbnet)
+  - Swift Code Quality and Security 4.3.0.4687 (swift)
+  - CFamily Code Quality and Security 6.17.0.27551 (cpp)
+  - Python Code Quality and Security 3.3.0.7945 (python)
+  - Go Code Quality and Security 1.8.2.1946 (go)
+  - JaCoCo 1.1.0.898 (jacoco)
+  - Kotlin Code Quality and Security 1.8.2.1946 (kotlin)
+  - Mercurial 1.1.2 (scmmercurial)
+  - T-SQL Code Quality and Security 1.5.0.3958 (tsql)
+  - Apex Code Quality and Security 1.8.2.1946 (sonarapex)
+  - JavaScript/TypeScript Code Quality and Security 7.2.1.14998 (javascript)
+  - Ruby Code Quality and Security 1.8.2.1946 (ruby)
+  - Vulnerability Rules for C# 8.7.0.7826 (securitycsharpfrontend)
+  - Vulnerability Rules for Java 8.7.0.7826 (securityjavafrontend)
+  - License for SonarLint 8.0.0.18114 (license)
+  - Vulnerability Rules for JS 8.7.0.7826 (securityjsfrontend)
+  - COBOL Code Quality 4.6.1.4781 (cobol)
+  - Vulnerability Rules for Python 8.7.0.7826 (securitypythonfrontend)
+  - Git 1.12.1.2064 (scmgit)
+  - PHP Code Quality and Security 3.15.0.7197 (php)
+  - ABAP Code Quality and Security 3.9.0.2739 (abap)
+  - Vulnerability Rules for PHP 8.7.0.7826 (securityphpfrontend)
+Global server settings:
+  - email.from=noreply@sonarcloud.io
+  - email.fromName=SonarCloud
+  - email.prefix=[SonarCloud]
+  - java_11_brownout_start_date=1610323200000
+  - java_11_brownout_termination_date=1610722800000
+  - java_11_end_of_support_date=1612170000000
+  - java_11_grace_period_termination_date=1613379600000
+  - node_10_end_of_support_date=1612166400000
+  - node_10_grace_period_termination_date=1613376000000
+  - sonar.auth.bitbucket.clientId.secured=******
+  - sonar.auth.bitbucket.clientSecret.secured=******
+  - sonar.auth.bitbucket.enabled=true
+  - sonar.auth.microsoft.applicationId.secured=******
+  - sonar.auth.microsoft.enabled=true
+  - sonar.auth.microsoft.keyPassword.secured=******
+  - sonar.core.id=1BD809FA-AWHW8ct9-T_TB3XqouNu
+  - sonar.core.serverBaseURL=https://sonarcloud.io
+  - sonar.core.startTime=2021-03-11T10:34:28+0100
+  - sonar.dbcleaner.weeksBeforeDeletingAllSnapshots=480
+  - sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByMonth=4
+  - sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByWeek=1
+  - sonar.feature_flag.bbc_code_reports.enabled=true
+  - sonar.lf.enableGravatar=true
+  - sonar.lf.logoWidthPx=105
+  - sonar.organizations.anyoneCanCreate=true
+  - sonar.organizations.createPersonalOrg=true
+  - sonar.plsql.file.suffixes=sql,tab,pkb
+  - sonar.tsql.file.suffixes=.tsql
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=https://sonarcloud.io
+  - sonar.organization=amelie-foulc-sonarsource
+  - sonar.projectBaseDir=/app/iznik-server
+  - sonar.projectKey=test-iznik-server
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=4.6.0.2311
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=.
+  - sonar.working.directory=/app/iznik-server/.scannerwork

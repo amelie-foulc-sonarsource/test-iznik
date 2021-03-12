@@ -1,0 +1,41 @@
+
+fb::setenabledJ
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpM M(%"1*p
+2
+fb.php"a
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpQ Q(
+implicit return*ª
+1J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpO O(/w
+u
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpM M(%
+
+$Enabled"__id*
+
+$EnabledbooleanÅ
+
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpO O(.
+%1"firephp::getinstance*"	
+firephp*
+truei
+g
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpO O(.
+	$instance"__id*
+
+%1}{
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpP P('
+%2*
+
+	$instance*
+
+
+$Enabled2
+setenabled*
+2:
+$EnabledbooleanB
+fb

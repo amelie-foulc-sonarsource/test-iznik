@@ -1,0 +1,49 @@
+
+(freegle\iznik\message::getroleformessage9
+-/app/iznik-server/include/message/Message.phpÕ Õ(%"1*Ã
+19
+-/app/iznik-server/include/message/Message.php× ×(`g
+e
+9
+-/app/iznik-server/include/message/Message.phpÕ Õ(%
+$me"__id*
+
+$mefreegle\iznik\nullnl
+9
+-/app/iznik-server/include/message/Message.php×/ ×(F
+%1*
+freegle\iznik\message2getthisasarray•’
+9
+-/app/iznik-server/include/message/Message.php× ×(S
+%2*
+freegle\iznik\message*
+
+$me*
+
+%1*
+
+
+$overrides2getrolesformessagesl
+j
+9
+-/app/iznik-server/include/message/Message.php×T ×(]
+%3"__id*!*
+freegle\iznik\message"
+id_
+]
+9
+-/app/iznik-server/include/message/Message.php× ×(^
+%4"
+__arrayGet*
+
+%2*
+
+%3"C
+9
+-/app/iznik-server/include/message/Message.php× ×(`
+
+%4:
+
+$overrides:
+$mefreegle\iznik\nullB
+freegle\iznik\message

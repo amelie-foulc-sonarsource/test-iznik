@@ -1,0 +1,31 @@
+
+$freegle\iznik\activityapitest::setup<
+2/app/iznik-server/test/ut/php/api/activityTest.php ("1*l
+2
+activityTest.php"S
+<
+2/app/iznik-server/test/ut/php/api/activityTest.php (
+implicit return*Ö
+1<
+2/app/iznik-server/test/ut/php/api/activityTest.php (‘
+Ž
+<
+2/app/iznik-server/test/ut/php/api/activityTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup*!
+freegle\iznik\activityapitest|
+z
+<
+2/app/iznik-server/test/ut/php/api/activityTest.php ()
+freegle\iznik\activityapitest"
+dbhr"__id*	
+
+$dbhr|
+z
+<
+2/app/iznik-server/test/ut/php/api/activityTest.php ()
+freegle\iznik\activityapitest"
+dbhm"__id*	
+
+$dbhm*
+2B!
+freegle\iznik\activityapitest

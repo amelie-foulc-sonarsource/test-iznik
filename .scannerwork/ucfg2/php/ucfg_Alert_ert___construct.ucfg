@@ -1,0 +1,69 @@
+
+ freegle\iznik\alert::__construct3
+)/app/iznik-server/include/group/Alert.php ("1*\
+2
+	Alert.php"J
+3
+)/app/iznik-server/include/group/Alert.php (
+implicit return*Ø
+13
+)/app/iznik-server/include/group/Alert.php (Nj
+h
+3
+)/app/iznik-server/include/group/Alert.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdoj
+h
+3
+)/app/iznik-server/include/group/Alert.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdol
+j
+3
+)/app/iznik-server/include/group/Alert.php; (L
+%1"__id*'*%
+freegle\iznik\alert"
+
+publicattsœ™
+3
+)/app/iznik-server/include/group/Alert.php (M
+%2*
+freegle\iznik\alert*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+
+alerts*	
+alert*
+
+%12fetchPN
+3
+)/app/iznik-server/include/group/Alert.php (*
+%3"freegle\iznik\log{
+y
+3
+)/app/iznik-server/include/group/Alert.php (*
+%4"freegle\iznik\log::__construct*
+
+%3*	
+
+$dbhr*	
+
+$dbhme
+c
+3
+)/app/iznik-server/include/group/Alert.php (*
+freegle\iznik\alert"
+log"__id*
+
+%3*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\alert

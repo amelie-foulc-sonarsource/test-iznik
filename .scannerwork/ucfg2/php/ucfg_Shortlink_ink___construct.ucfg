@@ -1,0 +1,49 @@
+
+$freegle\iznik\shortlink::__construct6
+,/app/iznik-server/include/misc/Shortlink.php ("1*c
+2
+Shortlink.php"M
+6
+,/app/iznik-server/include/misc/Shortlink.php (
+implicit return*Á
+16
+,/app/iznik-server/include/misc/Shortlink.php (Vm
+k
+6
+,/app/iznik-server/include/misc/Shortlink.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdom
+k
+6
+,/app/iznik-server/include/misc/Shortlink.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdos
+q
+6
+,/app/iznik-server/include/misc/Shortlink.phpC (T
+%1"__id*+*)
+freegle\iznik\shortlink"
+
+publicatts«¨
+6
+,/app/iznik-server/include/misc/Shortlink.php (U
+%2*
+freegle\iznik\shortlink*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+
+shortlinks*
+	shortlink*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\shortlink

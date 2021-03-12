@@ -1,0 +1,31 @@
+
+inflector::classify/
+#/app/iznik-server/lib/Inflector.phpË Ë("1*¢
+1/
+#/app/iznik-server/lib/Inflector.phpÍ Í(Hq
+o
+/
+#/app/iznik-server/lib/Inflector.phpÍ# Í(F
+%1"inflector::singularize*"
+	inflector*
+
+$table_namee
+c
+/
+#/app/iznik-server/lib/Inflector.phpÍ Í(G
+%2"inflector::camelize*"
+	inflector*
+
+%1O
+M
+/
+#/app/iznik-server/lib/Inflector.phpÍ Í(H
+%2string"__id*
+
+%2"A
+/
+#/app/iznik-server/lib/Inflector.phpÍ Í(H
+
+%2string:
+$table_nameB
+	inflector

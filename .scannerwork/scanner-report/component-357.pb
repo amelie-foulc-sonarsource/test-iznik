@@ -1,0 +1,1 @@
+å 2webXºhr$mailtemplates/twig/leavingyahoo.html

@@ -1,0 +1,53 @@
+
+)freegle\iznik\communityevent::__construct<
+2/app/iznik-server/include/group/CommunityEvent.php ("1*n
+2
+CommunityEvent.php"S
+<
+2/app/iznik-server/include/group/CommunityEvent.php (
+implicit return*ø
+1<
+2/app/iznik-server/include/group/CommunityEvent.php (as
+q
+<
+2/app/iznik-server/include/group/CommunityEvent.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdos
+q
+<
+2/app/iznik-server/include/group/CommunityEvent.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdo~
+|
+<
+2/app/iznik-server/include/group/CommunityEvent.phpD (U
+%1"__id*0*.
+freegle\iznik\communityevent"
+
+publicattsÅÂ
+<
+2/app/iznik-server/include/group/CommunityEvent.php (`
+%2* 
+freegle\iznik\communityevent*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+communityevents*	
+event*
+
+%1*
+
+
+$fetched2fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$id:
+
+$fetchedB 
+freegle\iznik\communityevent

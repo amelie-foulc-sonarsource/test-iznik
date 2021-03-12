@@ -1,0 +1,55 @@
+
+%freegle\iznik\authorityapitest::setup=
+3/app/iznik-server/test/ut/php/api/AuthorityTest.php ("1*n
+2
+AuthorityTest.php"T
+=
+3/app/iznik-server/test/ut/php/api/AuthorityTest.php# #(
+implicit return*Ø
+1=
+3/app/iznik-server/test/ut/php/api/AuthorityTest.php (ì
+ê
+=
+3/app/iznik-server/test/ut/php/api/AuthorityTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup*" 
+freegle\iznik\authorityapitest~
+|
+=
+3/app/iznik-server/test/ut/php/api/AuthorityTest.php (* 
+freegle\iznik\authorityapitest"
+dbhr"__id*	
+
+$dbhr~
+|
+=
+3/app/iznik-server/test/ut/php/api/AuthorityTest.php (* 
+freegle\iznik\authorityapitest"
+dbhm"__id*	
+
+$dbhmîë
+=
+3/app/iznik-server/test/ut/php/api/AuthorityTest.php (L
+%2*	
+
+$dbhm*64
+2DELETE FROM authorities WHERE name LIKE 'UTAuth%';2preexecíè
+=
+3/app/iznik-server/test/ut/php/api/AuthorityTest.php   (J
+%3*	
+
+$dbhm*42
+0DELETE FROM locations WHERE name LIKE 'Tuvalu%';2preexecêç
+=
+3/app/iznik-server/test/ut/php/api/AuthorityTest.php! !(H
+%4*	
+
+$dbhm*20
+.DELETE FROM locations WHERE name LIKE 'TV13%';2preexecêç
+=
+3/app/iznik-server/test/ut/php/api/AuthorityTest.php" "(H
+%5*	
+
+$dbhm*20
+.DELETE FROM locations WHERE name LIKE 'TV1 %';2preexec*
+2B" 
+freegle\iznik\authorityapitest

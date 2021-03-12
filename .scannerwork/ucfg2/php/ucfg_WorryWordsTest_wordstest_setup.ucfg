@@ -1,0 +1,37 @@
+
+#freegle\iznik\worrywordstest::setupB
+8/app/iznik-server/test/ut/php/include/WorryWordsTest.php ("1*t
+2
+WorryWordsTest.php"Y
+B
+8/app/iznik-server/test/ut/php/include/WorryWordsTest.php (
+implicit return*à
+1B
+8/app/iznik-server/test/ut/php/include/WorryWordsTest.php (ì
+ê
+B
+8/app/iznik-server/test/ut/php/include/WorryWordsTest.php (
+%1""freegle\iznik\izniktestcase::setup* 
+freegle\iznik\worrywordstestÅ
+
+B
+8/app/iznik-server/test/ut/php/include/WorryWordsTest.php ((
+freegle\iznik\worrywordstest"
+dbhr"__id*	
+
+$dbhrÅ
+
+B
+8/app/iznik-server/test/ut/php/include/WorryWordsTest.php ((
+freegle\iznik\worrywordstest"
+dbhm"__id*	
+
+$dbhmõò
+B
+8/app/iznik-server/test/ut/php/include/WorryWordsTest.php (N
+%2*	
+
+$dbhm*86
+4DELETE FROM worrywords WHERE keyword LIKE 'UTtest%';2preexec*
+2B 
+freegle\iznik\worrywordstest

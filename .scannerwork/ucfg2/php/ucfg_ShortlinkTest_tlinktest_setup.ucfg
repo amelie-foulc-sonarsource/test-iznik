@@ -1,0 +1,49 @@
+
+"freegle\iznik\shortlinktest::setupA
+7/app/iznik-server/test/ut/php/include/ShortlinkTest.php ("1*r
+2
+ShortlinkTest.php"X
+A
+7/app/iznik-server/test/ut/php/include/ShortlinkTest.php (
+implicit return*Ž
+1A
+7/app/iznik-server/test/ut/php/include/ShortlinkTest.php (‘
+Ž
+A
+7/app/iznik-server/test/ut/php/include/ShortlinkTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\shortlinktest
+}
+A
+7/app/iznik-server/test/ut/php/include/ShortlinkTest.php ('
+freegle\iznik\shortlinktest"
+dbhr"__id*	
+
+$dbhr
+}
+A
+7/app/iznik-server/test/ut/php/include/ShortlinkTest.php ('
+freegle\iznik\shortlinktest"
+dbhm"__id*	
+
+$dbhm•’
+A
+7/app/iznik-server/test/ut/php/include/ShortlinkTest.php (I
+%2*	
+
+$dbhm*31
+/DELETE FROM shortlinks WHERE name LIKE 'test%';2preexec|
+z
+A
+7/app/iznik-server/test/ut/php/include/ShortlinkTest.php (
+%3"__id*)*'
+freegle\iznik\shortlinktest"
+dbhm”‘
+A
+7/app/iznik-server/test/ut/php/include/ShortlinkTest.php (Q
+%4*
+
+%3*53
+1DELETE FROM groups WHERE nameshort = 'testgroup';2preexec*
+2B
+freegle\iznik\shortlinktest

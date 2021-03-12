@@ -1,0 +1,60 @@
+
+freegle\iznik\search::delete5
+)/app/iznik-server/include/misc/Search.phpå å("1*_
+2
+
+Search.php"L
+5
+)/app/iznik-server/include/misc/Search.phpê ê(
+implicit return*ƒ
+15
+)/app/iznik-server/include/misc/Search.phpé é(Kj
+h
+5
+)/app/iznik-server/include/misc/Search.phpé é()
+%1"__id*#*!
+freegle\iznik\search"
+tablej
+h
+5
+)/app/iznik-server/include/misc/Search.phpé2 é(>
+%2"__id*#*!
+freegle\iznik\search"
+idattï
+í
+5
+)/app/iznik-server/include/misc/Search.phpé é(J
+%3"__concat*
+DELETE FROM *	
+ WHERE *
+ = *
+;*
+
+%1*
+
+%2*
+
+
+$extidO
+M
+5
+)/app/iznik-server/include/misc/Search.phpé é(J
+$sql"__id*
+
+%3i
+g
+5
+)/app/iznik-server/include/misc/Search.phpè è(
+%4"__id*"* 
+freegle\iznik\search"
+dbhmWU
+5
+)/app/iznik-server/include/misc/Search.phpè è(
+%5*
+
+%4*
+
+$sql2exec*
+2:
+$extidB
+freegle\iznik\search

@@ -1,0 +1,46 @@
+
+xmppprebind::getbodyfromxmlM
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì ì()"1*°
+1M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpî î($q
+o
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì ì()
+$xml"__id*
+
+$xmlstringnl
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpî î(#
+$domDocument"domdocumentÑ
+Å
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpî î(#
+%1"domdocument::__construct*
+
+$domDocument|z
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpï ï(
+%2*
+
+$domDocument*
+
+$xml2loadxmlí
+è
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpó	 ó(3
+%3"self::getbodyfromdomdocument*"
+self*
+
+$domDocumentn
+l
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpó ó(4
+%3domnode"__id*
+
+%3"`
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpó ó(4
+
+%3domnode:
+$xmlstringB
+xmppprebind

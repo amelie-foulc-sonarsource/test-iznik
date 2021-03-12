@@ -1,0 +1,35 @@
+
+'freegle\iznik\log::deletelogsformessage2
+&/app/iznik-server/include/misc/Log.phpÔ Ô(("1*Y
+2	
+Log.php"I
+2
+&/app/iznik-server/include/misc/Log.php× ×(
+implicit return*ô
+12
+&/app/iznik-server/include/misc/Log.phpÖ Ö(Ic
+a
+2
+&/app/iznik-server/include/misc/Log.phpÖ Ö(
+%1"__id**
+freegle\iznik\log"
+dbhmw
+u
+2
+&/app/iznik-server/include/misc/Log.phpÖ  Ö(G
+%2"__concat*#!
+DELETE FROM logs WHERE msgid = *
+
+
+$msgidXV
+2
+&/app/iznik-server/include/misc/Log.phpÖ Ö(H
+%3*
+
+%1*
+
+%22
+background*
+2:
+$msgidB
+freegle\iznik\log

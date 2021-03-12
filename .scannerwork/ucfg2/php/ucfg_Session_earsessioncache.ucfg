@@ -1,0 +1,37 @@
+
+(freegle\iznik\session::clearsessioncache9
+-/app/iznik-server/include/session/Session.php¥ ¥(,"1*d
+2
+Session.php"P
+9
+-/app/iznik-server/include/session/Session.php© ©(
+implicit return*Ë
+19
+-/app/iznik-server/include/session/Session.php§ §('KI
+9
+-/app/iznik-server/include/session/Session.php§$ §(&
+%1"$Arrayv
+t
+9
+-/app/iznik-server/include/session/Session.php§ §(!
+%2"__mapSet*
+
+	$_SESSION*
+notification*
+
+%1KI
+9
+-/app/iznik-server/include/session/Session.php¨" ¨($
+%3"$Arrayt
+r
+9
+-/app/iznik-server/include/session/Session.php¨ ¨(
+%4"__mapSet*
+
+	$_SESSION*
+
+modorowner*
+
+%3*
+2B
+freegle\iznik\session

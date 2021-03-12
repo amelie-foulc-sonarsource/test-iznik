@@ -1,0 +1,48 @@
+
+ freegle\iznik\polls::__construct2
+(/app/iznik-server/include/misc/Polls.php ("1*[
+2
+	Polls.php"I
+2
+(/app/iznik-server/include/misc/Polls.php (
+implicit return*›
+12
+(/app/iznik-server/include/misc/Polls.php (Li
+g
+2
+(/app/iznik-server/include/misc/Polls.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdoi
+g
+2
+(/app/iznik-server/include/misc/Polls.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdok
+i
+2
+(/app/iznik-server/include/misc/Polls.php9 (J
+%1"__id*'*%
+freegle\iznik\polls"
+
+publicatts™–
+2
+(/app/iznik-server/include/misc/Polls.php (K
+%2*
+freegle\iznik\polls*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*	
+polls*
+poll*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\polls

@@ -1,0 +1,165 @@
+
+xmppprebind::authM
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÈ È("1*Ë
+3M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÍ Í(,„
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÍ Í(+
+%4*
+xmppprebind*	
+
+$auth2buildplainauthk
+i
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÍ Í(+
+
+$authXml"__id*
+
+%4*
+8*ß
+5M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÐ Ð(@˜•
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÐ Ð(?
+%5*
+xmppprebind*	
+
+$auth2"sendchallengeandbuilddigestmd5authk
+i
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÐ Ð(?
+
+$authXml"__id*
+
+%5*
+8*Ý
+7M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÓ Ó(>–“
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÓ Ó(=
+%6*
+xmppprebind*	
+
+$auth2 sendchallengeandbuildcrammd5authk
+i
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÓ Ó(=
+
+$authXml"__id*
+
+%6*
+8*®
+8M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÖ Ö($|z
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÖ Ö(#
+%7*
+xmppprebind*
+
+
+$authXml2sendl
+j
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÖ Ö(#
+	$response"__id*
+
+%7‡
+„
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpØ
+ Ø()
+%8"self::getbodyfromxml*"
+self*
+
+	$responseh
+f
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpØ Ø()
+$body"__id*
+
+%8qo
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÚ Ú(
+%9*	
+
+$body2haschildnodes*
+9
+12*Î
+9M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÚ! Ú(Jy
+w
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÚ! Ú(2
+%10"__id**
+
+$body"
+
+firstChildu
+s
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÚ! Ú(<
+%11"__id**
+
+%10"
+
+nodeName*
+11
+12*¨
+11M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÞ Þ(vt
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÞ Þ(
+%12*
+xmppprebind2sendrestart}{
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpß ß(
+%13*
+xmppprebind2sendbindifrequired€~
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpà à( 
+%14*
+xmppprebind2sendsessionifrequired"Y
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpâ â(
+true*Ð
+1M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÉ É(0~
+|
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÉ É(.
+%1"__id**
+xmppprebind"
+
+encryptionƒ
+€
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÉ
+ É(/
+%2"auth_sasl::factory*"
+	auth_sasl*
+
+%1h
+f
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpÉ É(/
+$auth"__id*
+
+%2~
+|
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpË
+ Ë(
+%3"__id**
+xmppprebind"
+
+encryption*
+3
+5
+7
+8*}
+12
+XmppPrebind.php"d
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpã ã(
+implicit returnB
+xmppprebind

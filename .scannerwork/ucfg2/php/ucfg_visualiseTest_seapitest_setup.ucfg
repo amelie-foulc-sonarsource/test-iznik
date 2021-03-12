@@ -1,0 +1,31 @@
+
+%freegle\iznik\visualiseapitest::setup=
+3/app/iznik-server/test/ut/php/api/visualiseTest.php ("1*n
+2
+visualiseTest.php"T
+=
+3/app/iznik-server/test/ut/php/api/visualiseTest.php (
+implicit return*›
+1=
+3/app/iznik-server/test/ut/php/api/visualiseTest.php (ì
+ê
+=
+3/app/iznik-server/test/ut/php/api/visualiseTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup*" 
+freegle\iznik\visualiseapitest~
+|
+=
+3/app/iznik-server/test/ut/php/api/visualiseTest.php (* 
+freegle\iznik\visualiseapitest"
+dbhr"__id*	
+
+$dbhr~
+|
+=
+3/app/iznik-server/test/ut/php/api/visualiseTest.php (* 
+freegle\iznik\visualiseapitest"
+dbhm"__id*	
+
+$dbhm*
+2B" 
+freegle\iznik\visualiseapitest

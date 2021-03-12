@@ -1,0 +1,1 @@
+¦ 2phpXhr#scripts/cli/groups_moderate_all.php

@@ -1,0 +1,1 @@
+Ê 2phpX;hr scripts/fix/fix_authorities2.php

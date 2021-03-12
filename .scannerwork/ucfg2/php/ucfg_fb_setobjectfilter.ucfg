@@ -1,0 +1,48 @@
+
+fb::setobjectfilterJ
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpi i(*"1*p
+2
+fb.php"a
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpm m(
+implicit return*Ω
+1J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpk k(-r
+p
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpi i(*
+$Class"__id*
+
+$Classstrings
+q
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpi i(*	
+$Filter"__id*
+
+$FilterarrayÅ
+
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpk k(,
+%1"firephp::getinstance*"	
+firephp*
+truei
+g
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpk k(,
+	$instance"__id*
+
+%1éã
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpl l(1
+%2*
+
+	$instance*
+
+
+$Class*
+	
+$Filter2setobjectfilter*
+2:
+$Classstring:
+$FilterarrayB
+fb

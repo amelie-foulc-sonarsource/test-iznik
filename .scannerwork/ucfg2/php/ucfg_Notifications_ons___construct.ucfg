@@ -1,0 +1,60 @@
+
+(freegle\iznik\notifications::__construct:
+0/app/iznik-server/include/user/Notifications.php ("1*k
+2
+Notifications.php"Q
+:
+0/app/iznik-server/include/user/Notifications.php (
+implicit return*ó
+1:
+0/app/iznik-server/include/user/Notifications.php (q
+o
+:
+0/app/iznik-server/include/user/Notifications.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdoq
+o
+:
+0/app/iznik-server/include/user/Notifications.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdox
+v
+:
+0/app/iznik-server/include/user/Notifications.php ('
+freegle\iznik\notifications"
+dbhr"__id*	
+
+$dbhrx
+v
+:
+0/app/iznik-server/include/user/Notifications.php ('
+freegle\iznik\notifications"
+dbhm"__id*	
+
+$dbhmWU
+:
+0/app/iznik-server/include/user/Notifications.php (*
+%1"freegle\iznik\logƒ
+€
+:
+0/app/iznik-server/include/user/Notifications.php (*
+%2"freegle\iznik\log::__construct*
+
+%1*	
+
+$dbhr*	
+
+$dbhmt
+r
+:
+0/app/iznik-server/include/user/Notifications.php (*&
+freegle\iznik\notifications"
+log"__id*
+
+%1*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdoB
+freegle\iznik\notifications

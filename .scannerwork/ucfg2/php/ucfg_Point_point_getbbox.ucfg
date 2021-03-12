@@ -1,0 +1,65 @@
+
+point::getbbox?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpj j("1*Ž
+1?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpk p(QO
+?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpk p(
+%1"$ArrayZX
+?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpl l(
+%2*	
+point2getym
+k
+?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpk p(
+%3"__mapSet*
+
+%1*
+maxy*
+
+%2ZX
+?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpm m(
+%4*	
+point2getym
+k
+?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpk p(
+%5"__mapSet*
+
+%1*
+miny*
+
+%4ZX
+?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpn n(
+%6*	
+point2getxm
+k
+?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpk p(
+%7"__mapSet*
+
+%1*
+maxx*
+
+%6ZX
+?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpo o(
+%8*	
+point2getxm
+k
+?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpk p(
+%9"__mapSet*
+
+%1*
+minx*
+
+%8"I
+?
+5/app/iznik-server/lib/geoPHP/geometry/Point.class.phpk p(
+
+%1B	
+point

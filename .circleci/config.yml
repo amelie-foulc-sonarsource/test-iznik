@@ -1,0 +1,112 @@
+version: 2
+jobs:
+  build:
+    environment:
+      - STANDALONE=TRUE
+      - XDEBUG_MODE=coverage
+    docker:
+      - image: circleci/php:7.2
+      - image: circleci/redis
+      - image: schickling/beanstalkd
+      - image: circleci/mysql:5.7.32
+        environment:
+          MYSQL_ALLOW_EMPTY_PASSWORD: yes
+          MYSQL_ROOT_PASSWORD: ''
+          MYSQL_DATABASE: iznik
+          MYSQL_ROOT_HOST: 127.0.0.1
+          MYSQL_USER: root
+    steps:
+      - checkout
+      - run: sudo apt-get update
+
+      # PHP extensions
+      - run: sudo apt install -y libgmp-dev libxml2-dev libgd-dev libpng-dev libjpeg62-turbo-dev
+      - run: sudo -E docker-php-ext-install exif
+      - run: sudo -E docker-php-ext-install gmp
+      - run: sudo -E docker-php-ext-install soap
+      - run: sudo -E docker-php-ext-configure gd  --with-jpeg-dir=/usr/include/
+      - run: sudo -E docker-php-ext-install gd
+      - run: sudo pecl install mailparse
+      - run: sudo -E docker-php-ext-enable mailparse
+      - run: sudo docker-php-ext-install pdo_mysql
+      - run: sudo -E docker-php-ext-enable pdo_mysql
+      - run: sudo pecl install xdebug
+      - run: sudo -E docker-php-ext-enable xdebug
+      - run: sudo -E pecl install redis
+      - run: sudo -E docker-php-ext-enable redis
+
+      # Spamassassin for filtering
+      - run: sudo apt-get install -y spamassassin spamc psmisc
+      - run: sudo groupadd spamd
+      - run: sudo useradd -g spamd -s /bin/false -d /var/log/spamassassin spamd
+      - run: sudo mkdir /var/log/spamassassin
+      - run: sudo sed -i 's/ENABLED=0/ENABLED=1/g' /etc/default/spamassassin
+      - run: sudo sed -i 's/home-dir/home-dir -4/g' /etc/default/spamassassin
+      - run: sudo service spamassassin start
+
+#      - run: sudo apt-get install php-ssh2
+
+      # GeoIP
+      - run: sudo apt-get install -y automake autoconf libtool build-essential libcurl4-openssl-dev zlib1g-dev
+      - run: git clone https://github.com/maxmind/geoipupdate-legacy ; cd geoipupdate-legacy ; ./bootstrap ; ./configure ; make
+      - run: sudo make install ; cd ..
+      - run: sudo mkdir /usr/local/share/GeoIP
+      - run: sudo chmod 777 /usr/local/share/GeoIP
+      - run: echo AccountID $MAXMIND_ACCOUNT > /tmp/GeoIP.conf
+      - run: echo LicenseKey $MAXMIND_KEY >> /tmp/GeoIP.conf
+      - run: echo ProductIds GeoLite2-Country GeoLite2-City >> /tmp/GeoIP.conf
+      - run: sudo geoipupdate-legacy/bin/geoipupdate -v -f /tmp/GeoIP.conf
+
+      # /etc/iznik.conf is where our config goes on the live server.  We have some keys in environment variables.
+      - run: sudo cp install/iznik.conf.php /etc/iznik.conf
+      - run: sudo chmod 777 /etc/iznik.conf
+
+      # Redis listens on localhost, whereas we use a unix socket on the live servers.
+      - run: sudo sed -ie 's/\/var\/run\/redis\/redis.sock/127.0.0.1/g' /etc/iznik.conf
+
+      - run: sudo sed -ie "s/'GOOGLE_VISION_KEY', 'zzz'/'GOOGLE_VISION_KEY', '$GOOGLE_VISION_KEY'/g" /etc/iznik.conf
+      - run: sudo sed -ie "s/'TWITTER_CONSUMER_KEY', 'zzzz'/'TWITTER_CONSUMER_KEY', '$TWITTER_CONSUMER_KEY'/g" /etc/iznik.conf
+      - run: sudo sed -ie "s/'TWITTER_CONSUMER_SECRET', 'zzzz'/'TWITTER_CONSUMER_SECRET', '$TWITTER_CONSUMER_SECRET'/g" /etc/iznik.conf
+      - run: sudo sed -ie "s/'AZURE_CONNECTION_STRING', 'zzzz'/'AZURE_CONNECTION_STRING', '$AZURE_CONNECTION_STRING'/g" /etc/iznik.conf
+      - run: sudo sed -ie "s/'PLAYGROUND_TOKEN', 'zzzz'/'PLAYGROUND_TOKEN', '$PLAYGROUND_TOKEN'/g" /etc/iznik.conf
+      - run: sudo sed -ie "s/'PLAYGROUND_SECRET', 'zzzz'/'PLAYGROUND_SECRET', '$PLAYGROUND_SECRET'/g" /etc/iznik.conf
+      - run: sudo sed -ie "s/'FBGRAFFITIAPP_ID', 'zzz'/'FBGRAFFITIAPP_ID', '$FBGRAFFITIAPP_ID'/g" /etc/iznik.conf
+      - run: sudo sed -ie "s/'FBGRAFFITIAPP_SECRET', 'zzz'/'FBGRAFFITIAPP_SECRET', '$FBGRAFFITIAPP_SECRET'/g" /etc/iznik.conf
+      - run: sudo sed -ie "s/'CHAT_HOST', 'users.ilovefreegle.org'/'CHAT_HOST', NULL/g" /etc/iznik.conf
+      - run: echo "define('SQLLOG', TRUE);" >> /etc/iznik.conf
+
+      # phpunit.xml is set up for running tests on our debug server.
+      - run: sudo sed -ie 's/\/var\/www\/iznik.mt.dbg\//\//g' test/ut/php/phpunit.xml
+
+      # Set up the DB.  We need to make some minor schema tweaks otherwise it fails to install.
+      - run: sudo apt-get install -y default-mysql-client
+      - run: sudo sed -ie 's/ROW_FORMAT=DYNAMIC//g' install/schema.sql
+      - run: sudo sed -ie 's/timestamp(3)/timestamp/g' install/schema.sql
+      - run: sudo sed -ie 's/timestamp(6)/timestamp/g' install/schema.sql
+      - run: sudo sed -ie 's/CURRENT_TIMESTAMP(3)/CURRENT_TIMESTAMP/g' install/schema.sql
+      - run: sudo sed -ie 's/CURRENT_TIMESTAMP(6)/CURRENT_TIMESTAMP/g' install/schema.sql
+      - run: mysql --host="127.0.0.1" -u root iznik < install/schema.sql
+      - run: mysql --host="127.0.0.1" -u root iznik < install/functions.sql
+      - run: mysql --host="127.0.0.1" -u root iznik < install/damlevlim.sql
+      - run: mysql --host="127.0.0.1" -u root -e "SET GLOBAL sql_mode = 'NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION'"
+
+      # ...and change some config, otherwise some of the larger attachment inserts fail.
+      - run: mysql --host="127.0.0.1" -u root -e "set global max_allowed_packet=33554432"
+
+      # Install composer dependencies.  Use v1 as we're not compatible with v2.
+      - run: cd composer; wget https://getcomposer.org/composer-1.phar; php composer-1.phar install; cd ..
+      - run:
+          name: Background job
+          command: php scripts/cron/background.php
+          background: true
+      - run:
+          name: Export job
+          command: php scripts/cron/exports.php
+          background: true
+
+      # Set up the environment we need for running our UT.
+      - run: php install/testenv.php
+
+      # Run the UT.
+      - run: cd http/api; ../../composer/vendor/bin/phpunit -d memory_limit=512M --stderr --bootstrap ../../composer/vendor/autoload.php -dxdebug.coverage_enable=1 --coverage-clover ../../test/ut/php/clover.xml --configuration ../../test/ut/php/phpunit.xml ../../test/ut/php/
+      - run: php composer/vendor/bin/php-coveralls -v

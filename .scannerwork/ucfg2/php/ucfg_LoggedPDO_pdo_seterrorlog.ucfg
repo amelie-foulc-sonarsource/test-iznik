@@ -1,0 +1,27 @@
+
+$freegle\iznik\loggedpdo::seterrorlog1
+'/app/iznik-server/include/LoggedPDO.php. .("1*^
+2
+LoggedPDO.php"H
+1
+'/app/iznik-server/include/LoggedPDO.php1 1(
+implicit return* 
+11
+'/app/iznik-server/include/LoggedPDO.php0 0($n
+l
+1
+'/app/iznik-server/include/LoggedPDO.php. .(
+	$errorLog"__id*$
+"
+	$errorLogfreegle\iznik\booleans
+q
+1
+'/app/iznik-server/include/LoggedPDO.php0 0(#'
+freegle\iznik\loggedpdo"
+
+errorLog"__id*
+
+	$errorLog*
+2:"
+	$errorLogfreegle\iznik\booleanB
+freegle\iznik\loggedpdo

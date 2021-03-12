@@ -1,0 +1,48 @@
+
+$freegle\iznik\authority::__construct6
+,/app/iznik-server/include/misc/Authority.php( (("1*c
+2
+Authority.php"M
+6
+,/app/iznik-server/include/misc/Authority.php+ +(
+implicit return*½
+16
+,/app/iznik-server/include/misc/Authority.php* *(Rm
+k
+6
+,/app/iznik-server/include/misc/Authority.php( ((
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdom
+k
+6
+,/app/iznik-server/include/misc/Authority.php( ((
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdos
+q
+6
+,/app/iznik-server/include/misc/Authority.php*? *(P
+%1"__id*+*)
+freegle\iznik\authority"
+
+publicatts§¤
+6
+,/app/iznik-server/include/misc/Authority.php* *(Q
+%2*
+freegle\iznik\authority*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+authorities*
+auth*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\authority

@@ -1,0 +1,40 @@
+
+,freegle\iznik\microvolunteering::__construct>
+4/app/iznik-server/include/user/MicroVolunteering.php# #("1*s
+2
+MicroVolunteering.php"U
+>
+4/app/iznik-server/include/user/MicroVolunteering.php' '(
+implicit return*¼
+1>
+4/app/iznik-server/include/user/MicroVolunteering.php% %(u
+s
+>
+4/app/iznik-server/include/user/MicroVolunteering.php# #(
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdou
+s
+>
+4/app/iznik-server/include/user/MicroVolunteering.php# #(
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdo€
+~
+>
+4/app/iznik-server/include/user/MicroVolunteering.php% %(+!
+freegle\iznik\microvolunteering"
+dbhr"__id*	
+
+$dbhr€
+~
+>
+4/app/iznik-server/include/user/MicroVolunteering.php& &(+!
+freegle\iznik\microvolunteering"
+dbhm"__id*	
+
+$dbhm*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdoB#!
+freegle\iznik\microvolunteering

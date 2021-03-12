@@ -1,0 +1,67 @@
+
+freegle\iznik\paftest::setup;
+1/app/iznik-server/test/ut/php/include/PAFTest.php ("1*f
+2
+PAFTest.php"R
+;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (
+implicit return*ª	
+1;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (Ö
+Ç
+;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\paftests
+q
+;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (!
+freegle\iznik\paftest"
+dbhr"__id*	
+
+$dbhrs
+q
+;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (!
+freegle\iznik\paftest"
+dbhm"__id*	
+
+$dbhmp
+n
+;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (
+%2"__id*#*!
+freegle\iznik\paftest"
+dbhmçä
+;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (P
+%3*
+
+%2*42
+0DELETE FROM locations WHERE name LIKE 'Tuvalu%';2preexecp
+n
+;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (
+%4"__id*#*!
+freegle\iznik\paftest"
+dbhmäá
+;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (M
+%5*
+
+%4*1/
+-DELETE FROM locations WHERE name LIKE 'TV1%';2preexecp
+n
+;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (
+%6"__id*#*!
+freegle\iznik\paftest"
+dbhméã
+;
+1/app/iznik-server/test/ut/php/include/PAFTest.php (Q
+%7*
+
+%6*53
+1DELETE FROM locations WHERE name LIKE 'ZZZZ ZZZ';2preexec*
+2B
+freegle\iznik\paftest

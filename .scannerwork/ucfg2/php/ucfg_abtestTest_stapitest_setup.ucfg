@@ -1,0 +1,37 @@
+
+"freegle\iznik\abtestapitest::setup:
+0/app/iznik-server/test/ut/php/api/abtestTest.php ("1*h
+2
+abtestTest.php"Q
+:
+0/app/iznik-server/test/ut/php/api/abtestTest.php   (
+implicit return*œ
+1:
+0/app/iznik-server/test/ut/php/api/abtestTest.php (ç
+ä
+:
+0/app/iznik-server/test/ut/php/api/abtestTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup*
+freegle\iznik\abtestapitestx
+v
+:
+0/app/iznik-server/test/ut/php/api/abtestTest.php ('
+freegle\iznik\abtestapitest"
+dbhr"__id*	
+
+$dbhrx
+v
+:
+0/app/iznik-server/test/ut/php/api/abtestTest.php ('
+freegle\iznik\abtestapitest"
+dbhm"__id*	
+
+$dbhmÑÅ
+:
+0/app/iznik-server/test/ut/php/api/abtestTest.php (?
+%2*	
+
+$dbhm*(&
+$DELETE FROM abtest WHERE uid = 'UT';2prequery*
+2B
+freegle\iznik\abtestapitest

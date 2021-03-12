@@ -1,0 +1,48 @@
+
+ freegle\iznik\story::__construct2
+(/app/iznik-server/include/user/Story.php ("1*[
+2
+	Story.php"I
+2
+(/app/iznik-server/include/user/Story.php (
+implicit return*¤
+12
+(/app/iznik-server/include/user/Story.php (Ui
+g
+2
+(/app/iznik-server/include/user/Story.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdoi
+g
+2
+(/app/iznik-server/include/user/Story.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdok
+i
+2
+(/app/iznik-server/include/user/Story.phpB (S
+%1"__id*'*%
+freegle\iznik\story"
+
+publicatts¢Ÿ
+2
+(/app/iznik-server/include/user/Story.php (T
+%2*
+freegle\iznik\story*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+users_stories*	
+story*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\story

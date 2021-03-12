@@ -1,0 +1,43 @@
+
+freegle\iznik\storytest::setup=
+3/app/iznik-server/test/ut/php/include/StoryTest.php ("1*j
+2
+StoryTest.php"T
+=
+3/app/iznik-server/test/ut/php/include/StoryTest.php (
+implicit return*–
+1=
+3/app/iznik-server/test/ut/php/include/StoryTest.php (â
+Ü
+=
+3/app/iznik-server/test/ut/php/include/StoryTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\storytestw
+u
+=
+3/app/iznik-server/test/ut/php/include/StoryTest.php (#
+freegle\iznik\storytest"
+dbhr"__id*	
+
+$dbhrw
+u
+=
+3/app/iznik-server/test/ut/php/include/StoryTest.php (#
+freegle\iznik\storytest"
+dbhm"__id*	
+
+$dbhmt
+r
+=
+3/app/iznik-server/test/ut/php/include/StoryTest.php (
+%2"__id*%*#
+freegle\iznik\storytest"
+dbhmíè
+=
+3/app/iznik-server/test/ut/php/include/StoryTest.php (S
+%3*
+
+%2*75
+3DELETE FROM users_stories WHERE headline =  'Test';2preexec*
+2B
+freegle\iznik\storytest

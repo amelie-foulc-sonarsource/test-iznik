@@ -1,0 +1,67 @@
+
+(freegle\iznik\groupcollectiontest::setupG
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php ("1*~
+2
+GroupCollectionTest.php"^
+G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (
+implicit return*Ñ
+1G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (ù
+ö
+G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (
+%1""freegle\iznik\izniktestcase::setup*%#
+!freegle\iznik\groupcollectiontestå
+â
+G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (-#
+!freegle\iznik\groupcollectiontest"
+dbhr"__id*	
+
+$dbhrå
+â
+G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (-#
+!freegle\iznik\groupcollectiontest"
+dbhm"__id*	
+
+$dbhmâ
+Ü
+G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (
+%2"__id*/*-#
+!freegle\iznik\groupcollectiontest"
+dbhmòï
+G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (O
+%3*
+
+%2*64
+2DELETE FROM groups WHERE nameshort = 'testgroup1';2execâ
+Ü
+G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (
+%4"__id*/*-#
+!freegle\iznik\groupcollectiontest"
+dbhmòï
+G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (O
+%5*
+
+%4*64
+2DELETE FROM groups WHERE nameshort = 'testgroup2';2execâ
+Ü
+G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (
+%6"__id*/*-#
+!freegle\iznik\groupcollectiontest"
+dbhmòï
+G
+=/app/iznik-server/test/ut/php/include/GroupCollectionTest.php (O
+%7*
+
+%6*64
+2DELETE FROM groups WHERE nameshort = 'testgroup3';2exec*
+2B%#
+!freegle\iznik\groupcollectiontest

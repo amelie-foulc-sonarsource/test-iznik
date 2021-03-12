@@ -1,0 +1,37 @@
+
+#freegle\iznik\storiesapitest::setup;
+1/app/iznik-server/test/ut/php/api/storiesTest.php ("1*j
+2
+storiesTest.php"R
+;
+1/app/iznik-server/test/ut/php/api/storiesTest.php (
+implicit return*Ë
+1;
+1/app/iznik-server/test/ut/php/api/storiesTest.php (è
+å
+;
+1/app/iznik-server/test/ut/php/api/storiesTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup* 
+freegle\iznik\storiesapitestz
+x
+;
+1/app/iznik-server/test/ut/php/api/storiesTest.php ((
+freegle\iznik\storiesapitest"
+dbhr"__id*	
+
+$dbhrz
+x
+;
+1/app/iznik-server/test/ut/php/api/storiesTest.php ((
+freegle\iznik\storiesapitest"
+dbhm"__id*	
+
+$dbhmñì
+;
+1/app/iznik-server/test/ut/php/api/storiesTest.php (P
+%2*	
+
+$dbhm*:8
+6DELETE FROM users_stories WHERE headline LIKE 'Test%';2preexec*
+2B 
+freegle\iznik\storiesapitest

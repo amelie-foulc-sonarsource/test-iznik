@@ -1,0 +1,55 @@
+{
+  "name": "edwh/iznik",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Edward Hibbert",
+      "email": "edward@ehibbert.org.uk"
+    }
+  ],
+  "classmap": [
+    "vendor/googleads/googleads-php-lib/src/Google/Api/Ads/AdWords/Util/v201603"
+  ],
+  "require": {
+    "php-mime-mail-parser/php-mime-mail-parser" : "^2.1",
+    "pda/pheanstalk": "^3.0",
+    "geoip2/geoip2": "^2.3",
+    "html2text/html2text": "^3.0",
+    "minishlink/web-push": "2.0.1",
+    "kreait/firebase-php": "^4.0",
+    "google/apiclient": "^1.1",
+    "jenssegers/imagehash": "^0.4.0",
+    "facebook/webdriver": "^1.1",
+    "swiftmailer/swiftmailer": "v5.4.3",
+    "abraham/twitteroauth": "^0.6.4",
+    "oefenweb/damerau-levenshtein": "^2.1",
+    "kartik-v/bootstrap-fileinput": "dev-master",
+    "graphp/graphviz": "^0.2.1",
+    "googleads/googleads-php-lib": "^15.0",
+    "paypal/merchant-sdk-php": "^3.9",
+    "microsoft/windowsazure": "^0.5.1",
+    "kasp3r/link-preview": "^2.0",
+    "twig/twig": "~1.0",
+    "patrickschur/language-detection": "^3.2",
+    "twilio/sdk": "^5.19",
+    "php-coveralls/php-coveralls": "^2.1",
+    "cviebrock/discourse-php": "^0.9.3",
+    "elasticsearch/elasticsearch": "^6.1",
+    "violet/streaming-json-encoder": "^1.1",
+    "facebook/graph-sdk": "^5.7",
+    "griffinledingham/php-apple-signin": "^1.1",
+    "phpoffice/phpspreadsheet": "^1.14",
+    "eluceo/ical": "^0.16.1"
+  },
+  "repositories": [
+    {
+      "url": "https://github.com/Yanlong-LI/php-apple-signin.git",
+      "type": "git"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}

@@ -1,0 +1,1 @@
+ø 2phpXhr(scripts/migrate/migrate_group_events.php

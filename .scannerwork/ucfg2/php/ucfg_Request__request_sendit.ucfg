@@ -1,0 +1,23 @@
+
+freegle\iznik\request::sendit4
+*/app/iznik-server/include/user/Request.phpr r("1*_
+2
+Request.php"K
+4
+*/app/iznik-server/include/user/Request.phpt t(
+implicit return*Ÿ
+14
+*/app/iznik-server/include/user/Request.phps s( _]
+4
+*/app/iznik-server/include/user/Request.phps s(
+%1*
+	
+$mailer*
+
+
+$message2send*
+2:	
+$mailer:
+
+$messageB
+freegle\iznik\request

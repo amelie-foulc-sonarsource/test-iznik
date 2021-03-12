@@ -1,0 +1,50 @@
+
+'freegle\iznik\userapitest::testgravatar:
+./app/iznik-server/test/ut/php/api/userTest.phpå å(!"1*f
+2
+userTest.php"Q
+:
+./app/iznik-server/test/ut/php/api/userTest.phpè è(
+implicit return*Ü
+1:
+./app/iznik-server/test/ut/php/api/userTest.phpç ç(0s
+q
+:
+./app/iznik-server/test/ut/php/api/userTest.phpç ç(!
+%1"__id*'*%
+freegle\iznik\userapitest"
+dbhrs
+q
+:
+./app/iznik-server/test/ut/php/api/userTest.phpç# ç(.
+%2"__id*'*%
+freegle\iznik\userapitest"
+dbhmXV
+:
+./app/iznik-server/test/ut/php/api/userTest.phpç ç(/
+$u"freegle\iznik\user}
+{
+:
+./app/iznik-server/test/ut/php/api/userTest.phpç ç(/
+%3"freegle\iznik\user::__construct*
+
+$u*
+
+%1*
+
+%2rp
+:
+./app/iznik-server/test/ut/php/api/userTest.phpé é(B
+%4*
+
+$u*
+edward@ehibbert.org.uk2gravatarà
+Ö
+:
+./app/iznik-server/test/ut/php/api/userTest.phpé é(C
+%5"!freegle\iznik\self::assertnotnull*"
+freegle\iznik\self*
+
+%4*
+2B
+freegle\iznik\userapitest

@@ -1,0 +1,29 @@
+
+ freegle\iznik\itemtest::teardown<
+2/app/iznik-server/test/ut/php/include/ItemTest.php ("1*h
+2
+ItemTest.php"S
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php (
+implicit return*Ô
+1<
+2/app/iznik-server/test/ut/php/include/ItemTest.php (Mr
+p
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php (
+%1"__id*$*"
+freegle\iznik\itemtest"
+dbhmŠ‡
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php (L
+%2*
+
+%1*0.
+,DELETE FROM items WHERE name LIKE 'UTTest%';2preexecŠ
+‡
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php (
+%3"%freegle\iznik\izniktestcase::teardown*
+freegle\iznik\itemtest*
+2B
+freegle\iznik\itemtest

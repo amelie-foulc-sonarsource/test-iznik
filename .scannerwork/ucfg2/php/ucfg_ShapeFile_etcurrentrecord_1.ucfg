@@ -1,0 +1,43 @@
+
+%shapefile\shapefile::setcurrentrecordA
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpµ µ($"1*Î
+2A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php∏ ∏(Dùö
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php∏ ∏(C
+%2*
+shapefile\shapefile*
+RECORD_INDEX_NOT_VALID*
+
+
+$index2throwexception*
+3*—
+3A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php∫ ∫('É
+Ä
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php∫ ∫(&)
+shapefile\shapefile"
+current_record"__id*
+
+
+$index*
+4*n
+4
+ShapeFile.php"X
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpª ª(
+implicit return*‘
+1A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php∑ ∑(,ÉÄ
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php∑ ∑(,
+%1*
+shapefile\shapefile*
+
+
+$index2checkrecordindex*
+2
+3:
+$indexB
+shapefile\shapefile

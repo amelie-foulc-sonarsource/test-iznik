@@ -1,0 +1,74 @@
+
+%freegle\iznik\stdmessage::__construct9
+//app/iznik-server/include/config/StdMessage.php ("1*g
+2
+StdMessage.php"P
+9
+//app/iznik-server/include/config/StdMessage.php (
+implicit return*¨
+19
+//app/iznik-server/include/config/StdMessage.php (^p
+n
+9
+//app/iznik-server/include/config/StdMessage.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdop
+n
+9
+//app/iznik-server/include/config/StdMessage.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdow
+u
+9
+//app/iznik-server/include/config/StdMessage.phpA (R
+%1"__id*,**
+freegle\iznik\stdmessage"
+
+publicattsª∏
+9
+//app/iznik-server/include/config/StdMessage.php (]
+%2*
+freegle\iznik\stdmessage*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+mod_stdmsgs*
+
+stdmsg*
+
+%1*
+
+
+$fetched2fetchVT
+9
+//app/iznik-server/include/config/StdMessage.php (*
+%3"freegle\iznik\logÅ
+
+9
+//app/iznik-server/include/config/StdMessage.php (*
+%4"freegle\iznik\log::__construct*
+
+%3*	
+
+$dbhr*	
+
+$dbhmp
+n
+9
+//app/iznik-server/include/config/StdMessage.php (*#
+freegle\iznik\stdmessage"
+log"__id*
+
+%3*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$id:
+
+$fetchedB
+freegle\iznik\stdmessage

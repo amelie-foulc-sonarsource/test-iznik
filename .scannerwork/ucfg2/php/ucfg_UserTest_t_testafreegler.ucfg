@@ -1,0 +1,111 @@
+
+%freegle\iznik\usertest::testafreegler>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÁ Á(!"1*j
+2
+UserTest.php"U
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÇ Ç(
+implicit return*“
+1>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÂ Â(1t
+r
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÂ Â("
+%1"__id*$*"
+freegle\iznik\usertest"
+dbhrt
+r
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÂ$ Â(/
+%2"__id*$*"
+freegle\iznik\usertest"
+dbhmŠ
+‡
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÂ Â(0
+%3"freegle\iznik\user::get*"
+freegle\iznik\user*
+
+%1*
+
+%2V
+T
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÂ Â(0
+$u"__id*
+
+%3|z
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÃ Ã(7
+%4*
+
+$u*
+Test*
+User*
+
+A freegler2createX
+V
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÃ Ã(7
+$uid"__id*
+
+%4t
+r
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÄ Ä("
+%5"__id*$*"
+freegle\iznik\usertest"
+dbhrt
+r
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÄ$ Ä(/
+%6"__id*$*"
+freegle\iznik\usertest"
+dbhm”
+‘
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÄ Ä(6
+%7"freegle\iznik\user::get*"
+freegle\iznik\user*
+
+%5*
+
+%6*
+
+$uidV
+T
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÄ Ä(6
+$u"__id*
+
+%7[Y
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÅ Å(
+%8*
+
+$u2	getpublicY
+W
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÅ Å(
+$atts"__id*
+
+%8k
+i
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÆ, Æ(=
+%9"__mapGet*	
+
+$atts*
+
+fullnameŸ
+œ
+>
+2/app/iznik-server/test/ut/php/include/UserTest.phpÆ Æ(>
+%10"#freegle\iznik\self::assertnotequals*"
+freegle\iznik\self*
+
+A freegler*
+
+%9*
+2B
+freegle\iznik\usertest

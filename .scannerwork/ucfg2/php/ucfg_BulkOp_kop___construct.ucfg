@@ -1,0 +1,75 @@
+
+!freegle\iznik\bulkop::__construct5
++/app/iznik-server/include/config/BulkOp.php ("1*_
+2
+
+BulkOp.php"L
+5
++/app/iznik-server/include/config/BulkOp.php (
+implicit return*ÿ
+15
++/app/iznik-server/include/config/BulkOp.php (^l
+j
+5
++/app/iznik-server/include/config/BulkOp.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdol
+j
+5
++/app/iznik-server/include/config/BulkOp.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdoo
+m
+5
++/app/iznik-server/include/config/BulkOp.phpA (R
+%1"__id*(*&
+freegle\iznik\bulkop"
+
+publicatts³°
+5
++/app/iznik-server/include/config/BulkOp.php (]
+%2*
+freegle\iznik\bulkop*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+mod_bulkops*
+
+bulkop*
+
+%1*
+
+
+$fetched2fetchRP
+5
++/app/iznik-server/include/config/BulkOp.php (*
+%3"freegle\iznik\log}
+{
+5
++/app/iznik-server/include/config/BulkOp.php (*
+%4"freegle\iznik\log::__construct*
+
+%3*	
+
+$dbhr*	
+
+$dbhmh
+f
+5
++/app/iznik-server/include/config/BulkOp.php (*
+freegle\iznik\bulkop"
+log"__id*
+
+%3*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$id:
+
+$fetchedB
+freegle\iznik\bulkop

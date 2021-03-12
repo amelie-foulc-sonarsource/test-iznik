@@ -1,0 +1,58 @@
+
+#freegle\iznik\newslettertest::setupB
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php ("1*t
+2
+NewsletterTest.php"Y
+B
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php! !(
+implicit return*€
+1B
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php (ì
+ê
+B
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php (
+%1""freegle\iznik\izniktestcase::setup* 
+freegle\iznik\newslettertestÅ
+
+B
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php ((
+freegle\iznik\newslettertest"
+dbhr"__id*	
+
+$dbhrÅ
+
+B
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php ((
+freegle\iznik\newslettertest"
+dbhm"__id*	
+
+$dbhm~
+|
+B
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php (
+%2"__id***(
+freegle\iznik\newslettertest"
+dbhmúô
+B
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php (X
+%3*
+
+%2*<:
+8DELETE FROM newsletters WHERE subject = 'UT Newsletter';2preexecTR
+B
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php (
+%4"$ArrayÉ
+Ä
+B
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php (,
+freegle\iznik\newslettertest"
+
+msgsSent"__id*
+
+%4tr
+B
+8/app/iznik-server/test/ut/php/include/NewsletterTest.php   (
+%5* 
+freegle\iznik\newslettertest2tidy*
+2B 
+freegle\iznik\newslettertest

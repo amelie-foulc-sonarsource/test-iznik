@@ -1,0 +1,2 @@
+Ç
+½The Data Dictionary is not configured for PLSQL analyzer which prevents rule(s) S3641, S3921, S3618, S3651 to raise issues. See https://sonarcloud.io/documentation/analysis/languages/plsql/œ¿ÍŒ‚/

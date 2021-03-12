@@ -1,0 +1,103 @@
+
+freegle\iznik\grouptest::setup=
+3/app/iznik-server/test/ut/php/include/groupTest.php ("1*j
+2
+groupTest.php"T
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php$ $(
+implicit return*å
+1=
+3/app/iznik-server/test/ut/php/include/groupTest.php (â
+Ü
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\grouptestw
+u
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (#
+freegle\iznik\grouptest"
+dbhr"__id*	
+
+$dbhrw
+u
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (#
+freegle\iznik\grouptest"
+dbhm"__id*	
+
+$dbhmt
+r
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (
+%2"__id*%*#
+freegle\iznik\grouptest"
+dbhméã
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (O
+%3*
+
+%2*64
+2DELETE FROM groups WHERE nameshort = 'testgroup2';2exect
+r
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (
+%4"__id*%*#
+freegle\iznik\grouptest"
+dbhmçä
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (N
+%5*
+
+%4*53
+1DELETE FROM groups WHERE nameshort = 'testgroup';2exect
+r
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (
+%6"__id*%*#
+freegle\iznik\grouptest"
+dbhmåâ
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (M
+%7*
+
+%6*1/
+-DELETE FROM users WHERE yahooid = '-testid1';2preexect
+r
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (
+%8"__id*%*#
+freegle\iznik\grouptest"
+dbhmêç
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (Q
+%9*
+
+%8*53
+1DELETE FROM users WHERE yahooid = '-testyahooid';2preexecu
+s
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (
+%10"__id*%*#
+freegle\iznik\grouptest"
+dbhmêç
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php (O
+%11*
+
+%10*31
+/DELETE FROM users WHERE fullname = 'Test User';2preexecÛ
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php  "(	
+%12*	
+
+$dbhm*ìê
+çDELETE users, users_emails FROM users INNER JOIN users_emails ON users.id = users_emails.userid WHERE users_emails.backwards LIKE 'moctset%';2preexec©¶
+=
+3/app/iznik-server/test/ut/php/include/groupTest.php# #(`
+%13*	
+
+$dbhm*JH
+FDELETE FROM users_emails WHERE users_emails.backwards LIKE 'moctset%';2preexec*
+2B
+freegle\iznik\grouptest

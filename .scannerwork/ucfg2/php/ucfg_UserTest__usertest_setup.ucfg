@@ -1,0 +1,84 @@
+
+freegle\iznik\usertest::setup<
+2/app/iznik-server/test/ut/php/include/UserTest.php ("1*h
+2
+UserTest.php"S
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php% %(
+implicit return*†
+1<
+2/app/iznik-server/test/ut/php/include/UserTest.php (‡
+„
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\usertestu
+s
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php ("
+freegle\iznik\usertest"
+dbhr"__id*	
+
+$dbhru
+s
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php ("
+freegle\iznik\usertest"
+dbhm"__id*	
+
+$dbhmNL
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php (
+%2"$Arrayv
+t
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php (&
+freegle\iznik\usertest"
+
+msgsSent"__id*
+
+%2…‚
+=
+2/app/iznik-server/test/ut/php/include/UserTest.php (º
+%3*	
+
+$dbhm*¦£
+ DELETE users, users_emails FROM users INNER JOIN users_emails ON users.id = users_emails.userid WHERE users_emails.email IN ('test@test.com', 'test2@test.com');2preexecåâ
+=
+2/app/iznik-server/test/ut/php/include/UserTest.php (š
+%4*	
+
+$dbhm*†ƒ
+€DELETE users, users_logins FROM users INNER JOIN users_logins ON users.id = users_logins.userid WHERE uid IN ('testid', '1234');2preexec
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php   (I
+%5*	
+
+$dbhm*31
+/DELETE FROM users WHERE fullname = 'Test User';2preexec¢Ÿ
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php! !([
+%6*	
+
+$dbhm*EC
+ADELETE FROM users WHERE firstname = 'Test' AND lastname = 'User';2preexec–“
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php" "(O
+%7*	
+
+$dbhm*97
+5DELETE FROM groups WHERE nameshort LIKE 'testgroup%';2preexec¢Ÿ
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php# #([
+%8*	
+
+$dbhm*EC
+ADELETE FROM users_emails WHERE email = 'bit-bucket@test.smtp.org'2preexec—”
+<
+2/app/iznik-server/test/ut/php/include/UserTest.php$ $(P
+%9*	
+
+$dbhm*:8
+6DELETE FROM users_emails WHERE email = 'test@test.com'2preexec*
+2B
+freegle\iznik\usertest

@@ -1,0 +1,1 @@
+ˆ 2phpX#hr-lib/php-shapefile/src/ShapeFileAutoloader.php

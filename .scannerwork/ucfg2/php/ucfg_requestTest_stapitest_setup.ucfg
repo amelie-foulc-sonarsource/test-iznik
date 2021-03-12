@@ -1,0 +1,37 @@
+
+#freegle\iznik\requestapitest::setup;
+1/app/iznik-server/test/ut/php/api/requestTest.php ("1*j
+2
+requestTest.php"R
+;
+1/app/iznik-server/test/ut/php/api/requestTest.php (
+implicit return*‡
+1;
+1/app/iznik-server/test/ut/php/api/requestTest.php (è
+å
+;
+1/app/iznik-server/test/ut/php/api/requestTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup* 
+freegle\iznik\requestapitestz
+x
+;
+1/app/iznik-server/test/ut/php/api/requestTest.php ((
+freegle\iznik\requestapitest"
+dbhr"__id*	
+
+$dbhrz
+x
+;
+1/app/iznik-server/test/ut/php/api/requestTest.php ((
+freegle\iznik\requestapitest"
+dbhm"__id*	
+
+$dbhméã
+;
+1/app/iznik-server/test/ut/php/api/requestTest.php (H
+%2*	
+
+$dbhm*20
+.DELETE FROM locations WHERE name LIKE 'TV13%';2preexec*
+2B 
+freegle\iznik\requestapitest

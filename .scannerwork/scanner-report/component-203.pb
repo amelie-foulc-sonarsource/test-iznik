@@ -1,0 +1,1 @@
+Ë 2phpXúhr%lib/geoPHP/adapters/GeoHash.class.php

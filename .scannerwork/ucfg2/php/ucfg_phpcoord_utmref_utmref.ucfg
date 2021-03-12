@@ -1,0 +1,52 @@
+
+utmref::utmref.
+"/app/iznik-server/lib/phpcoord.php« «("1*Z
+2
+phpcoord.php"E
+.
+"/app/iznik-server/lib/phpcoord.php° °(
+implicit return*¶
+1.
+"/app/iznik-server/lib/phpcoord.php¬ ¬(#]
+[
+.
+"/app/iznik-server/lib/phpcoord.php¬ ¬("
+utmref"	
+easting"__id*
+
+
+$easting_
+]
+.
+"/app/iznik-server/lib/phpcoord.php­ ­(#
+utmref"
+
+northing"__id*
+
+	$northing]
+[
+.
+"/app/iznik-server/lib/phpcoord.php® ®("
+utmref"	
+latZone"__id*
+
+
+$latZone]
+[
+.
+"/app/iznik-server/lib/phpcoord.php¯ ¯("
+utmref"	
+lngZone"__id*
+
+
+$lngZone*
+2:
+
+$easting:
+	$northing:
+
+$latZone:
+
+$lngZoneB
+
+utmref

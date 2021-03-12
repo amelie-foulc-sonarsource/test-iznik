@@ -1,0 +1,43 @@
+
+!freegle\iznik\imageapitest::setup9
+//app/iznik-server/test/ut/php/api/imageTest.php ("1*f
+2
+imageTest.php"P
+9
+//app/iznik-server/test/ut/php/api/imageTest.php (
+implicit return*„
+19
+//app/iznik-server/test/ut/php/api/imageTest.php (ã
+à
+9
+//app/iznik-server/test/ut/php/api/imageTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup*
+freegle\iznik\imageapitestv
+t
+9
+//app/iznik-server/test/ut/php/api/imageTest.php (&
+freegle\iznik\imageapitest"
+dbhr"__id*	
+
+$dbhrv
+t
+9
+//app/iznik-server/test/ut/php/api/imageTest.php (&
+freegle\iznik\imageapitest"
+dbhm"__id*	
+
+$dbhmçä
+9
+//app/iznik-server/test/ut/php/api/imageTest.php (I
+%2*	
+
+$dbhm*31
+/DELETE FROM users WHERE fullname = 'Test User';2preexecèå
+9
+//app/iznik-server/test/ut/php/api/imageTest.php (K
+%3*	
+
+$dbhm*53
+1DELETE FROM groups WHERE nameshort = 'testgroup';2preexec*
+2B
+freegle\iznik\imageapitest

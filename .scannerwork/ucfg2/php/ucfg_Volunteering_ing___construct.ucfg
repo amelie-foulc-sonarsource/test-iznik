@@ -1,0 +1,53 @@
+
+'freegle\iznik\volunteering::__construct:
+0/app/iznik-server/include/group/Volunteering.php ("1*j
+2
+Volunteering.php"Q
+:
+0/app/iznik-server/include/group/Volunteering.php (
+implicit return*î
+1:
+0/app/iznik-server/include/group/Volunteering.php (eq
+o
+:
+0/app/iznik-server/include/group/Volunteering.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdoq
+o
+:
+0/app/iznik-server/include/group/Volunteering.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdoz
+x
+:
+0/app/iznik-server/include/group/Volunteering.phpH (Y
+%1"__id*.*,
+freegle\iznik\volunteering"
+
+publicattsÅÂ
+:
+0/app/iznik-server/include/group/Volunteering.php (d
+%2*
+freegle\iznik\volunteering*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+volunteering*
+volunteering*
+
+%1*
+
+
+$fetched2fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$id:
+
+$fetchedB
+freegle\iznik\volunteering

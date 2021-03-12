@@ -1,0 +1,51 @@
+
+shapefile\shapefile::__destruct?
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpl l("1*l
+2
+ShapeFile.php"V
+?
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpq q(
+implicit return*œ
+1?
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpn n(,x
+v
+?
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpn n(*
+%1"__id*'*%
+shapefile\shapefile"
+
+shp_handleus
+?
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpn n(+
+%2*
+shapefile\shapefile*
+
+%12	closefilex
+v
+?
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpo o(*
+%3"__id*'*%
+shapefile\shapefile"
+
+shx_handleus
+?
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpo o(+
+%4*
+shapefile\shapefile*
+
+%32	closefilex
+v
+?
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpp p(*
+%5"__id*'*%
+shapefile\shapefile"
+
+dbf_handleus
+?
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpp p(+
+%6*
+shapefile\shapefile*
+
+%52	closefile*
+2B
+shapefile\shapefile

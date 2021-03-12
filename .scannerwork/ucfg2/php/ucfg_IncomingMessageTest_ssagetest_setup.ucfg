@@ -1,0 +1,37 @@
+
+(freegle\iznik\incomingmessagetest::setupG
+=/app/iznik-server/test/ut/php/include/IncomingMessageTest.php ("1*~
+2
+IncomingMessageTest.php"^
+G
+=/app/iznik-server/test/ut/php/include/IncomingMessageTest.php (
+implicit return*¢
+1G
+=/app/iznik-server/test/ut/php/include/IncomingMessageTest.php (ù
+ö
+G
+=/app/iznik-server/test/ut/php/include/IncomingMessageTest.php (
+%1""freegle\iznik\izniktestcase::setup*%#
+!freegle\iznik\incomingmessagetestå
+â
+G
+=/app/iznik-server/test/ut/php/include/IncomingMessageTest.php (-#
+!freegle\iznik\incomingmessagetest"
+dbhr"__id*	
+
+$dbhrå
+â
+G
+=/app/iznik-server/test/ut/php/include/IncomingMessageTest.php (-#
+!freegle\iznik\incomingmessagetest"
+dbhm"__id*	
+
+$dbhmêç
+H
+=/app/iznik-server/test/ut/php/include/IncomingMessageTest.php (∫
+%2*	
+
+$dbhm*¶£
+†DELETE users, users_emails FROM users INNER JOIN users_emails ON users.id = users_emails.userid WHERE users_emails.email IN ('test@test.com', 'test2@test.com');2preexec*
+2B%#
+!freegle\iznik\incomingmessagetest

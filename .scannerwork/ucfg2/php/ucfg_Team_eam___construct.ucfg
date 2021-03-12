@@ -1,0 +1,49 @@
+
+freegle\iznik\team::__construct1
+'/app/iznik-server/include/user/Team.php ("1*Y
+2
+
+Team.php"H
+1
+'/app/iznik-server/include/user/Team.php (
+implicit return*”
+11
+'/app/iznik-server/include/user/Team.php (Lh
+f
+1
+'/app/iznik-server/include/user/Team.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdoh
+f
+1
+'/app/iznik-server/include/user/Team.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdoi
+g
+1
+'/app/iznik-server/include/user/Team.php9 (J
+%1"__id*&*$
+freegle\iznik\team"
+
+publicatts—”
+1
+'/app/iznik-server/include/user/Team.php (K
+%2*
+freegle\iznik\team*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*	
+teams*
+team*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\team

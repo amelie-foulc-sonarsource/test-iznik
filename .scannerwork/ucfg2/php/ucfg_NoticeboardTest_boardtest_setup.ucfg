@@ -1,0 +1,48 @@
+
+$freegle\iznik\noticeboardtest::setupC
+9/app/iznik-server/test/ut/php/include/NoticeboardTest.php ("1*v
+2
+NoticeboardTest.php"Z
+C
+9/app/iznik-server/test/ut/php/include/NoticeboardTest.php (
+implicit return*◊
+1C
+9/app/iznik-server/test/ut/php/include/NoticeboardTest.php (ï
+í
+C
+9/app/iznik-server/test/ut/php/include/NoticeboardTest.php (
+%1""freegle\iznik\izniktestcase::setup*!
+freegle\iznik\noticeboardtestÑ
+Å
+C
+9/app/iznik-server/test/ut/php/include/NoticeboardTest.php ()
+freegle\iznik\noticeboardtest"
+dbhr"__id*	
+
+$dbhrÑ
+Å
+C
+9/app/iznik-server/test/ut/php/include/NoticeboardTest.php ()
+freegle\iznik\noticeboardtest"
+dbhm"__id*	
+
+$dbhmï
+í
+C
+9/app/iznik-server/test/ut/php/include/NoticeboardTest.php (
+%2""freegle\iznik\izniktestcase::setup*!
+freegle\iznik\noticeboardtestõò
+C
+9/app/iznik-server/test/ut/php/include/NoticeboardTest.php (M
+%3*	
+
+$dbhm*75
+3DELETE FROM noticeboards WHERE name LIKE 'UTTest%';2preexec´®
+C
+9/app/iznik-server/test/ut/php/include/NoticeboardTest.php (]
+%4*	
+
+$dbhm*GE
+CDELETE FROM noticeboards WHERE description LIKE 'Test description';2preexec*
+2B!
+freegle\iznik\noticeboardtest

@@ -1,0 +1,16 @@
+<phpunit stderr="true">
+    <testsuites>
+        <testsuite name="Unit Tests">
+            <directory>test/ut/php</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist addUncoveredFilesFromWhitelist="true" processUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">../../../http/api</directory>
+            <directory suffix=".php">../../../include</directory>
+            <exclude>
+                <directory suffix=".php">lib</directory>
+            </exclude>
+        </whitelist>
+    </filter>
+</phpunit>

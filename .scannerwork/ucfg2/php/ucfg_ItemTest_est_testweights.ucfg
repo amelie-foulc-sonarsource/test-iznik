@@ -1,0 +1,124 @@
+
+#freegle\iznik\itemtest::testweights<
+2/app/iznik-server/test/ut/php/include/ItemTest.php/ /("1*ƒ
+2<
+2/app/iznik-server/test/ut/php/include/ItemTest.php4 4(&xv
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php4 4(%
+%5*
+freegle\iznik\itemtest*
+Create sofa2log`^
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php5 5(
+%6*
+
+$i*
+sofa2create_]
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php6 6(
+%7*
+
+$i*2%2	setweight*
+3*Î
+3<
+2/app/iznik-server/test/ut/php/include/ItemTest.php9 9((ge
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php9 9('
+%8*
+
+$i*
+UTTest sofa2createU
+S
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php9 9('
+$id"__id*
+
+%8r
+p
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php: :(!
+%9"__id*$*"
+freegle\iznik\itemtest"
+dbhrs
+q
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php:# :(.
+%10"__id*$*"
+freegle\iznik\itemtest"
+dbhmZX
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php: :(4
+$i"freegle\iznik\item‹
+ˆ
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php: :(4
+%11"freegle\iznik\item::__construct*
+
+$i*
+
+%9*
+
+%10*
+
+$id_]
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php; ;(3
+%12*
+
+$i2estimateweight‘
+Ž
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php; ;(4
+%13" freegle\iznik\self::assertequals*"
+freegle\iznik\self*2%*
+
+%12*
+4*h
+4
+ItemTest.php"S
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php= =(	
+implicit return*Ì
+1<
+2/app/iznik-server/test/ut/php/include/ItemTest.php0 0(0r
+p
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php0 0(!
+%1"__id*$*"
+freegle\iznik\itemtest"
+dbhrr
+p
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php0# 0(.
+%2"__id*$*"
+freegle\iznik\itemtest"
+dbhmZX
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php0 0(/
+$i"freegle\iznik\item
+}
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php0 0(/
+%3"freegle\iznik\item::__construct*
+
+$i*
+
+%1*
+
+%2db
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php1 1(%
+%4*
+
+$i*
+sofa2
+findbynameV
+T
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php1 1(%
+$iid"__id*
+
+%4*
+2
+3B
+freegle\iznik\itemtest

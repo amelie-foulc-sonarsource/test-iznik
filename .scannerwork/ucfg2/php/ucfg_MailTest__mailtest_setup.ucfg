@@ -1,0 +1,43 @@
+
+freegle\iznik\mailtest::setup<
+2/app/iznik-server/test/ut/php/include/MailTest.php ("1*h
+2
+MailTest.php"S
+<
+2/app/iznik-server/test/ut/php/include/MailTest.php (
+implicit return*Ô
+1<
+2/app/iznik-server/test/ut/php/include/MailTest.php (‡
+„
+<
+2/app/iznik-server/test/ut/php/include/MailTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\mailtestu
+s
+<
+2/app/iznik-server/test/ut/php/include/MailTest.php ("
+freegle\iznik\mailtest"
+dbhr"__id*	
+
+$dbhru
+s
+<
+2/app/iznik-server/test/ut/php/include/MailTest.php ("
+freegle\iznik\mailtest"
+dbhm"__id*	
+
+$dbhmr
+p
+<
+2/app/iznik-server/test/ut/php/include/MailTest.php (
+%2"__id*$*"
+freegle\iznik\mailtest"
+dbhmŸœ
+<
+2/app/iznik-server/test/ut/php/include/MailTest.php (a
+%3*
+
+%2*EC
+ADELETE FROM returnpath_seedlist WHERE email LIKE 'test@test.com';2preexec*
+2B
+freegle\iznik\mailtest

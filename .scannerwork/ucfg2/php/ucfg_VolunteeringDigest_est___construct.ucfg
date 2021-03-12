@@ -1,0 +1,69 @@
+
+-freegle\iznik\volunteeringdigest::__construct?
+5/app/iznik-server/include/mail/VolunteeringDigest.php ("1*u
+2
+VolunteeringDigest.php"V
+?
+5/app/iznik-server/include/mail/VolunteeringDigest.php (
+implicit return*«
+1?
+5/app/iznik-server/include/mail/VolunteeringDigest.php (É
+Ä
+?
+5/app/iznik-server/include/mail/VolunteeringDigest.php (,"
+ freegle\iznik\volunteeringdigest"
+dbhr"__id*	
+
+$dbhrÉ
+Ä
+?
+5/app/iznik-server/include/mail/VolunteeringDigest.php (,"
+ freegle\iznik\volunteeringdigest"
+dbhm"__id*	
+
+$dbhm
+}
+?
+5/app/iznik-server/include/mail/VolunteeringDigest.php ((
+%2"__id*.*,"
+ freegle\iznik\volunteeringdigest"
+dbhr
+}
+?
+5/app/iznik-server/include/mail/VolunteeringDigest.php* (5
+%3"__id*.*,"
+ freegle\iznik\volunteeringdigest"
+dbhm\Z
+?
+5/app/iznik-server/include/mail/VolunteeringDigest.php (6
+%1"freegle\iznik\logÅ
+
+?
+5/app/iznik-server/include/mail/VolunteeringDigest.php (6
+%4"freegle\iznik\log::__construct*
+
+%1*
+
+%2*
+
+%3~
+|
+?
+5/app/iznik-server/include/mail/VolunteeringDigest.php (6+"
+ freegle\iznik\volunteeringdigest"
+log"__id*
+
+%1ã
+à
+?
+5/app/iznik-server/include/mail/VolunteeringDigest.php (#0"
+ freegle\iznik\volunteeringdigest"
+
+errorlog"__id*
+
+	$errorlog*
+2:
+$dbhr:
+$dbhm:
+	$errorlogB$"
+ freegle\iznik\volunteeringdigest

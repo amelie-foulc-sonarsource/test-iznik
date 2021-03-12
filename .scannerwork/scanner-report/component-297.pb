@@ -1,0 +1,1 @@
+© 2phpXNhr*mailtemplates/digest/newsletterarticle.php

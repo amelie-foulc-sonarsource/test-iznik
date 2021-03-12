@@ -1,0 +1,176 @@
+
+xmppprebind::getboshinfoM
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpê ê("1*Ú
+1M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì ÷(_]
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%1"$Arrayx
+v
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpí í(
+%2"__id**
+xmppprebind"
+wait{
+y
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%3"__mapSet*
+
+%1*
+wait*
+
+%2|
+z
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpî î( 
+%4"__id**
+xmppprebind"
+
+requests
+}
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%5"__mapSet*
+
+%1*
+
+requests*
+
+%4w
+u
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpï ï(
+%6"__id**
+xmppprebind"
+verz
+x
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%7"__mapSet*
+
+%1*
+ver*
+
+%6{
+y
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpğ ğ(
+%8"__id**
+xmppprebind"	
+polling~
+|
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%9"__mapSet*
+
+%1*	
+polling*
+
+%8
+}
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpñ ñ($
+%10"__id**
+xmppprebind"
+
+inactivity„
+
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%11"__mapSet*
+
+%1*
+
+inactivity*
+
+%10y
+w
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpò ò(
+%12"__id**
+xmppprebind"
+hold}
+{
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%13"__mapSet*
+
+%1*
+hold*
+
+%12w
+u
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpó ó(
+%14"__id**
+xmppprebind"
+to{
+y
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%15"__mapSet*
+
+%1*
+to*
+
+%14x
+v
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpô ô(
+%16"__id**
+xmppprebind"
+ack|
+z
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%17"__mapSet*
+
+%1*
+ack*
+
+%16{
+y
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpõ õ(
+%18"__id**
+xmppprebind"
+accept
+}
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%19"__mapSet*
+
+%1*
+
+accept*
+
+%18}
+{
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpö ö( 
+%20"__id**
+xmppprebind"
+
+maxpause
+
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì	 ÷(
+%21"__mapSet*
+
+%1*
+
+maxpause*
+
+%20l
+j
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì ÷(
+%1array"__id*
+
+%1"^
+M
+A/app/iznik-server/lib/xmpp-prebind-php-master/lib/XmppPrebind.phpì ÷(
+
+%1arrayB
+xmppprebind

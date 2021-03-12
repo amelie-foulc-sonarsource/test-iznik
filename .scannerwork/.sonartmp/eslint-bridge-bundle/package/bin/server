@@ -1,0 +1,28 @@
+#!/usr/bin/env node
+
+
+/*
+* This script expects following arguments
+*
+* port - port number on which server should listen
+* host - host address on which server should listen
+* additionalRules - ; or : delimited paths to additional rule bundles
+* workDir - working directory from SonarQube API
+*/
+
+const server = require('../lib/server');
+const path = require('path');
+const context = require('../lib/context');
+
+const port = process.argv[2];
+const host = process.argv[3];
+const workDir = process.argv[4];
+const shouldUseTypeScriptParserForJS = process.argv[5] === 'true';
+
+let additionalRules = [];
+if (process.argv[6]) {
+  additionalRules = process.argv[6].split(path.delimiter);
+}
+
+context.setContext({ workDir, shouldUseTypeScriptParserForJS });
+server.start(port, host, additionalRules);

@@ -1,0 +1,29 @@
+
+"freegle\iznik\searchtest::teardown>
+4/app/iznik-server/test/ut/php/include/SearchTest.php' '("1*l
+2
+SearchTest.php"U
+>
+4/app/iznik-server/test/ut/php/include/SearchTest.php+ +(
+implicit return*Ñ
+1>
+4/app/iznik-server/test/ut/php/include/SearchTest.php) )(Ž
+‹
+>
+4/app/iznik-server/test/ut/php/include/SearchTest.php) )(
+%1"%freegle\iznik\izniktestcase::teardown*
+freegle\iznik\searchtestv
+t
+>
+4/app/iznik-server/test/ut/php/include/SearchTest.php* *(
+%2"__id*&*$
+freegle\iznik\searchtest"
+dbhm~|
+>
+4/app/iznik-server/test/ut/php/include/SearchTest.php* *(?
+%3*
+
+%2*#!
+DROP TABLE IF EXISTS test_index2preexec*
+2B
+freegle\iznik\searchtest

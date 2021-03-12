@@ -1,0 +1,48 @@
+
+$freegle\iznik\visualise::__construct9
+//app/iznik-server/include/message/Visualise.php ("1*f
+2
+Visualise.php"P
+9
+//app/iznik-server/include/message/Visualise.php (
+implicit return*Ï
+19
+//app/iznik-server/include/message/Visualise.php (Up
+n
+9
+//app/iznik-server/include/message/Visualise.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdop
+n
+9
+//app/iznik-server/include/message/Visualise.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdov
+t
+9
+//app/iznik-server/include/message/Visualise.phpB (S
+%1"__id*+*)
+freegle\iznik\visualise"
+
+publicatts­ª
+9
+//app/iznik-server/include/message/Visualise.php (T
+%2*
+freegle\iznik\visualise*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+	visualise*
+	visualise*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\visualise

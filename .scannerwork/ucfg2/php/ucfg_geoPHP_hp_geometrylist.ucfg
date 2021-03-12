@@ -1,0 +1,74 @@
+
+geophp::geometrylist1
+'/app/iznik-server/lib/geoPHP/geoPHP.incl l("1*Ï
+11
+'/app/iznik-server/lib/geoPHP/geoPHP.incm u(CA
+1
+'/app/iznik-server/lib/geoPHP/geoPHP.incm u(
+%1"$Arrayc
+a
+1
+'/app/iznik-server/lib/geoPHP/geoPHP.incm u(
+%2"__mapSet*
+
+%1*	
+point*	
+Pointm
+k
+1
+'/app/iznik-server/lib/geoPHP/geoPHP.incm u(
+%3"__mapSet*
+
+%1*
+
+linestring*
+
+LineStringg
+e
+1
+'/app/iznik-server/lib/geoPHP/geoPHP.incm u(
+%4"__mapSet*
+
+%1*	
+polygon*	
+Polygonm
+k
+1
+'/app/iznik-server/lib/geoPHP/geoPHP.incm u(
+%5"__mapSet*
+
+%1*
+
+multipoint*
+
+MultiPointw
+u
+1
+'/app/iznik-server/lib/geoPHP/geoPHP.incm u(
+%6"__mapSet*
+
+%1*
+multilinestring*
+MultiLineStringq
+o
+1
+'/app/iznik-server/lib/geoPHP/geoPHP.incm u(
+%7"__mapSet*
+
+%1*
+multipolygon*
+MultiPolygon}
+{
+1
+'/app/iznik-server/lib/geoPHP/geoPHP.incm u(
+%8"__mapSet*
+
+%1*
+geometrycollection*
+GeometryCollection";
+1
+'/app/iznik-server/lib/geoPHP/geoPHP.incm u(
+
+%1B
+
+geophp

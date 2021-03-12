@@ -1,0 +1,126 @@
+
+kml::pointtokml?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.php× ×("1*º
+2?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÚ Ú(ka
+_
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÚ Ú(
+%4"__id**
+kml"
+nssZX
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÚ, Ú(9
+%5*	
+
+$geom2getxZX
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÚ> Ú(K
+%6*	
+
+$geom2getya
+_
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÚQ Ú([
+%7"__id**
+kml"
+nss®
+«
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÚ Ú(j
+%8"__concat*
+<*
+
+%4*
+coordinates>*
+
+%5*
+,*
+
+%6*
+</*
+
+%7*
+coordinates>e
+c
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÚ Ú(j
+%9"__concat*
+
+$out*
+
+%8Y
+W
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÚ Ú(j
+$out"__id*
+
+%9*
+3*­
+3?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÜ Ü(%b
+`
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÜ Ü(
+%10"__id**
+kml"
+nssq
+o
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÜ Ü($
+%11"__concat*
+</*
+
+%10*
+
+Point>g
+e
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÜ Ü($
+%12"__concat*
+
+$out*
+
+%11Z
+X
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÜ Ü($
+$out"__id*
+
+%12"K
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÝ Ý(
+
+$out*Ù
+1?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpØ Ø(#a
+_
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpØ Ø(
+%1"__id**
+kml"
+nssn
+l
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpØ Ø("
+%2"__concat*
+<*
+
+%1*
+
+Point>Y
+W
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpØ Ø("
+$out"__id*
+
+%2][
+?
+3/app/iznik-server/lib/geoPHP/adapters/KML.class.phpÙ	 Ù(
+%3*	
+
+$geom2isempty*
+2
+3:
+$geomB
+kml

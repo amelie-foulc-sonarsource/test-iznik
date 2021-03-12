@@ -1,0 +1,110 @@
+
+freegle\iznik\mail::addheaders3
+'/app/iznik-server/include/misc/Mail.phpú ú(%"1*«
+23
+'/app/iznik-server/include/misc/Mail.php§ §(Yë
+é
+3
+'/app/iznik-server/include/misc/Mail.php§4 §(W
+%4"freegle\iznik\mail::matchingid*"
+freegle\iznik\mail*	
+
+$type*
+
+
+$qualifiertr
+3
+'/app/iznik-server/include/misc/Mail.php§ §(X
+%5*
+
+
+$headers*
+X-rpcampaign*
+
+%42addtextheader*
+3*ï
+33
+'/app/iznik-server/include/misc/Mail.php© ©(qr
+p
+3
+'/app/iznik-server/include/misc/Mail.php©/ ©(D
+%6"__concat*
+:*
+:*
+
+
+$qualifier*
+	
+$useridÖ
+Ç
+3
+'/app/iznik-server/include/misc/Mail.php©G ©(b
+%7""freegle\iznik\mail::getdescription*"
+freegle\iznik\mail*	
+
+$typee
+c
+3
+'/app/iznik-server/include/misc/Mail.php©/ ©(o
+%8"__concat*
+
+%6*
+
+%7*
+
+:freeglesq
+3
+'/app/iznik-server/include/misc/Mail.php© ©(p
+%9*
+
+
+$headers*
+Feedback-ID*
+
+%82addtextheader*
+4*[
+4
+
+Mail.php"J
+3
+'/app/iznik-server/include/misc/Mail.php™ ™(
+implicit return*Ì
+13
+'/app/iznik-server/include/misc/Mail.phpù ù(&SQ
+3
+'/app/iznik-server/include/misc/Mail.phpù ù(%
+%1*
+
+$msg2
+getheadersQ
+O
+3
+'/app/iznik-server/include/misc/Mail.phpù ù(%
+
+$headers"__id*
+
+%1Ö
+Ç
+3
+'/app/iznik-server/include/misc/Mail.php†7 †(R
+%2""freegle\iznik\mail::getdescription*"
+freegle\iznik\mail*	
+
+$type{y
+3
+'/app/iznik-server/include/misc/Mail.php† †(S
+%3*
+
+
+$headers*
+X-Freegle-Mail-Type*
+
+%22addtextheader*
+2
+3:
+$msg:
+$type:	
+$userid:
+
+$qualifierB
+freegle\iznik\mail

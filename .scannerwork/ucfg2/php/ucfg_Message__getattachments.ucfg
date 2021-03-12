@@ -1,0 +1,52 @@
+
+%freegle\iznik\message::getattachments9
+-/app/iznik-server/include/message/Message.php• •(""1*æ
+19
+-/app/iznik-server/include/message/Message.php– –(6n
+l
+9
+-/app/iznik-server/include/message/Message.php– –('
+%1"__id*#*!
+freegle\iznik\message"
+dbhrn
+l
+9
+-/app/iznik-server/include/message/Message.php–) –(4
+%2"__id*#*!
+freegle\iznik\message"
+dbhm][
+9
+-/app/iznik-server/include/message/Message.php– –(5
+$a"freegle\iznik\attachmentƒ
+€
+9
+-/app/iznik-server/include/message/Message.php– –(5
+%3"%freegle\iznik\attachment::__construct*
+
+$a*
+
+%1*
+
+%2ec
+9
+-/app/iznik-server/include/message/Message.php— —(*
+%4*
+freegle\iznik\message2getid\Z
+9
+-/app/iznik-server/include/message/Message.php— —(+
+%5*
+
+$a*
+
+%42getbyidT
+R
+9
+-/app/iznik-server/include/message/Message.php— —(+
+$atts"__id*
+
+%5"F
+9
+-/app/iznik-server/include/message/Message.php˜ ˜(	
+
+$attsB
+freegle\iznik\message

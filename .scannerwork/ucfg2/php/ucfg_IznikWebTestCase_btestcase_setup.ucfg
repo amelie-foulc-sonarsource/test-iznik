@@ -1,0 +1,49 @@
+
+iznikwebtestcase::setup8
+./app/iznik-server/test/fv/IznikWebTestCase.php" "("1*l
+2
+IznikWebTestCase.php"O
+8
+./app/iznik-server/test/fv/IznikWebTestCase.php+ +(
+implicit return*ã
+18
+./app/iznik-server/test/fv/IznikWebTestCase.php# #({
+y
+8
+./app/iznik-server/test/fv/IznikWebTestCase.php# #(
+%1"!phpunit_framework_testcase::setup*
+iznikwebtestcasek
+i
+8
+./app/iznik-server/test/fv/IznikWebTestCase.php& &(
+iznikwebtestcase"
+dbhr"__id*	
+
+$dbhrk
+i
+8
+./app/iznik-server/test/fv/IznikWebTestCase.php' '(
+iznikwebtestcase"
+dbhm"__id*	
+
+$dbhmh
+f
+8
+./app/iznik-server/test/fv/IznikWebTestCase.php) )(
+%2"__id**
+iznikwebtestcase"
+dbhmÌ
+9
+./app/iznik-server/test/fv/IznikWebTestCase.php) )(≤
+%3*
+
+%2*òï
+íDELETE users, users_emails FROM users INNER JOIN users_emails ON users.id = users_emails.userid WHERE users_emails.backwards LIKE 'oi.elohkcalb%';2preexecíè
+8
+./app/iznik-server/test/fv/IznikWebTestCase.php* *(O
+%4*	
+
+$dbhm*97
+5DELETE FROM groups WHERE nameshort LIKE 'testgroup%';2preexec*
+2B
+iznikwebtestcase

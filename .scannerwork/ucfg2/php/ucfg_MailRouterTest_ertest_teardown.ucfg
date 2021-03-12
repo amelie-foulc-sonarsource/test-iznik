@@ -1,0 +1,69 @@
+
+&freegle\iznik\mailroutertest::teardownB
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php9 9("1*t
+2
+MailRouterTest.php"Y
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php? ?(
+implicit return*Õ
+
+1B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php: :(–
+“
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php: :(
+%1"%freegle\iznik\izniktestcase::teardown* 
+freegle\iznik\mailroutertest~
+|
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php< <(
+%2"__id***(
+freegle\iznik\mailroutertest"
+dbhmTR
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php<U <(W
+%3"$Array 
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php< <(X
+%4*
+
+%2*86
+4DELETE FROM spam_whitelist_ips WHERE ip = '1.2.3.4';*
+
+%32preexec~
+|
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php= =(
+%5"__id***(
+freegle\iznik\mailroutertest"
+dbhmTR
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php=W =(Y
+%6"$Array¢Ÿ
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php= =(Z
+%7*
+
+%5*:8
+6DELETE FROM messages_history WHERE fromip = '1.2.3.4';*
+
+%62preexec~
+|
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php> >(
+%8"__id***(
+freegle\iznik\mailroutertest"
+dbhmTR
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php>W >(Y
+%9"$Array£ 
+B
+8/app/iznik-server/test/ut/php/include/MailRouterTest.php> >(Z
+%10*
+
+%8*:8
+6DELETE FROM messages_history WHERE fromip = '4.3.2.1';*
+
+%92preexec*
+2B 
+freegle\iznik\mailroutertest

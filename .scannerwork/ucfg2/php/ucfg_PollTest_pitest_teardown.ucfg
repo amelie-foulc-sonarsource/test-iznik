@@ -1,0 +1,29 @@
+
+#freegle\iznik\pollapitest::teardown8
+./app/iznik-server/test/ut/php/api/PollTest.php   ("1*d
+2
+PollTest.php"O
+8
+./app/iznik-server/test/ut/php/api/PollTest.php# #(
+implicit return*Í
+18
+./app/iznik-server/test/ut/php/api/PollTest.php! !(Mq
+o
+8
+./app/iznik-server/test/ut/php/api/PollTest.php! !(
+%1"__id*'*%
+freegle\iznik\pollapitest"
+dbhm†ƒ
+8
+./app/iznik-server/test/ut/php/api/PollTest.php! !(L
+%2*
+
+%1*0.
+,DELETE FROM polls WHERE name LIKE 'UTTest%';2preexecŒ
+‰
+8
+./app/iznik-server/test/ut/php/api/PollTest.php" "(
+%3"(freegle\iznik\iznikapitestcase::teardown*
+freegle\iznik\pollapitest*
+2B
+freegle\iznik\pollapitest

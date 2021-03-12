@@ -1,0 +1,1 @@
+Ä 2phpX(hrscripts/cli/stats_happiness.php

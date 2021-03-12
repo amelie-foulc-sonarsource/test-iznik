@@ -1,0 +1,56 @@
+
+#freegle\iznik\stdmessage::canmodify9
+//app/iznik-server/include/config/StdMessage.phpS S("1*†
+19
+//app/iznik-server/include/config/StdMessage.phpT T(Pq
+o
+9
+//app/iznik-server/include/config/StdMessage.phpT T(&
+%1"__id*&*$
+freegle\iznik\stdmessage"
+dbhrq
+o
+9
+//app/iznik-server/include/config/StdMessage.phpT( T(3
+%2"__id*&*$
+freegle\iznik\stdmessage"
+dbhms
+q
+9
+//app/iznik-server/include/config/StdMessage.phpT5 T(B
+%3"__id*(*&
+freegle\iznik\stdmessage"
+stdmsgc
+a
+9
+//app/iznik-server/include/config/StdMessage.phpT5 T(N
+%4"__mapGet*
+
+%3*
+
+configid\Z
+9
+//app/iznik-server/include/config/StdMessage.phpT T(O
+$c"freegle\iznik\modconfigŠ
+‡
+9
+//app/iznik-server/include/config/StdMessage.phpT T(O
+%5"$freegle\iznik\modconfig::__construct*
+
+$c*
+
+%1*
+
+%2*
+
+%4VT
+9
+//app/iznik-server/include/config/StdMessage.phpU U(
+%6*
+
+$c2	canmodify"C
+9
+//app/iznik-server/include/config/StdMessage.phpU U( 
+
+%6B
+freegle\iznik\stdmessage

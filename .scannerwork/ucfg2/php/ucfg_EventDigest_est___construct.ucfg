@@ -1,0 +1,69 @@
+
+&freegle\iznik\eventdigest::__construct8
+./app/iznik-server/include/mail/EventDigest.php ("1*g
+2
+EventDigest.php"O
+8
+./app/iznik-server/include/mail/EventDigest.php (
+implicit return*×
+18
+./app/iznik-server/include/mail/EventDigest.php (t
+r
+8
+./app/iznik-server/include/mail/EventDigest.php (%
+freegle\iznik\eventdigest"
+dbhr"__id*	
+
+$dbhrt
+r
+8
+./app/iznik-server/include/mail/EventDigest.php (%
+freegle\iznik\eventdigest"
+dbhm"__id*	
+
+$dbhmq
+o
+8
+./app/iznik-server/include/mail/EventDigest.php ((
+%2"__id*'*%
+freegle\iznik\eventdigest"
+dbhrq
+o
+8
+./app/iznik-server/include/mail/EventDigest.php* (5
+%3"__id*'*%
+freegle\iznik\eventdigest"
+dbhmUS
+8
+./app/iznik-server/include/mail/EventDigest.php (6
+%1"freegle\iznik\logz
+x
+8
+./app/iznik-server/include/mail/EventDigest.php (6
+%4"freegle\iznik\log::__construct*
+
+%1*
+
+%2*
+
+%3p
+n
+8
+./app/iznik-server/include/mail/EventDigest.php (6$
+freegle\iznik\eventdigest"
+log"__id*
+
+%1|
+z
+8
+./app/iznik-server/include/mail/EventDigest.php (#)
+freegle\iznik\eventdigest"
+
+errorlog"__id*
+
+	$errorlog*
+2:
+$dbhr:
+$dbhm:
+	$errorlogB
+freegle\iznik\eventdigest

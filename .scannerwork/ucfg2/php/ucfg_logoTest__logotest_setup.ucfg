@@ -1,0 +1,37 @@
+
+freegle\iznik\logotest::setup8
+./app/iznik-server/test/ut/php/api/logoTest.php ("1*d
+2
+logoTest.php"O
+8
+./app/iznik-server/test/ut/php/api/logoTest.php (
+implicit return*¾
+18
+./app/iznik-server/test/ut/php/api/logoTest.php (†
+ƒ
+8
+./app/iznik-server/test/ut/php/api/logoTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup*
+freegle\iznik\logotestq
+o
+8
+./app/iznik-server/test/ut/php/api/logoTest.php ("
+freegle\iznik\logotest"
+dbhr"__id*	
+
+$dbhrq
+o
+8
+./app/iznik-server/test/ut/php/api/logoTest.php ("
+freegle\iznik\logotest"
+dbhm"__id*	
+
+$dbhmŠ‡
+8
+./app/iznik-server/test/ut/php/api/logoTest.php (G
+%2*	
+
+$dbhm*1/
+-DELETE FROM logos WHERE path LIKE '%UTTest%';2preexec*
+2B
+freegle\iznik\logotest

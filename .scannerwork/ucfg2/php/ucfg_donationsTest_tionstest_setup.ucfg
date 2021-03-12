@@ -1,0 +1,49 @@
+
+"freegle\iznik\donationstest::setupA
+7/app/iznik-server/test/ut/php/include/donationsTest.php ("1*r
+2
+donationsTest.php"X
+A
+7/app/iznik-server/test/ut/php/include/donationsTest.php (
+implicit return*Ç
+1A
+7/app/iznik-server/test/ut/php/include/donationsTest.php (‘
+Ž
+A
+7/app/iznik-server/test/ut/php/include/donationsTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\donationstest
+}
+A
+7/app/iznik-server/test/ut/php/include/donationsTest.php ('
+freegle\iznik\donationstest"
+dbhr"__id*	
+
+$dbhr
+}
+A
+7/app/iznik-server/test/ut/php/include/donationsTest.php ('
+freegle\iznik\donationstest"
+dbhm"__id*	
+
+$dbhm•’
+A
+7/app/iznik-server/test/ut/php/include/donationsTest.php (I
+%2*	
+
+$dbhm*31
+/DELETE FROM users WHERE fullname = 'Test User';2preexec§¤
+A
+7/app/iznik-server/test/ut/php/include/donationsTest.php ([
+%3*	
+
+$dbhm*EC
+ADELETE FROM users WHERE firstname = 'Test' AND lastname = 'User';2preexec¡ž
+A
+7/app/iznik-server/test/ut/php/include/donationsTest.php (U
+%4*	
+
+$dbhm*?=
+;DELETE FROM users_donations WHERE TransactionID LIKE 'UT%';2preexec*
+2B
+freegle\iznik\donationstest

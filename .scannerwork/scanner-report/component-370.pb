@@ -1,0 +1,1 @@
+ò 2phpXvhr(mailtemplates/welcome/forgotpassword.php

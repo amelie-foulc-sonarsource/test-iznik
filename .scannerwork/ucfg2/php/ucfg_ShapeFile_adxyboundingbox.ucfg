@@ -1,0 +1,126 @@
+
+&shapefile\shapefile::readxyboundingboxA
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php› ›(&"1*ê
+1A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpﬂ ﬂ(6z
+x
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpﬂ# ﬂ(4
+%1"__id*'*%
+shapefile\shapefile"
+
+shp_handleyw
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpﬂ ﬂ(5
+%2*
+shapefile\shapefile*
+
+%12readdoublel\
+Z
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.phpﬂ ﬂ(5
+$xmin"__id*
+
+%2z
+x
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php‡# ‡(4
+%3"__id*'*%
+shapefile\shapefile"
+
+shp_handleyw
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php‡ ‡(5
+%4*
+shapefile\shapefile*
+
+%32readdoublel\
+Z
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php‡ ‡(5
+$ymin"__id*
+
+%4z
+x
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php·# ·(4
+%5"__id*'*%
+shapefile\shapefile"
+
+shp_handleyw
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php· ·(5
+%6*
+shapefile\shapefile*
+
+%52readdoublel\
+Z
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php· ·(5
+$xmax"__id*
+
+%6z
+x
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php‚# ‚(4
+%7"__id*'*%
+shapefile\shapefile"
+
+shp_handleyw
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php‚ ‚(5
+%8*
+shapefile\shapefile*
+
+%72readdoublel\
+Z
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php‚ ‚(5
+$ymax"__id*
+
+%8SQ
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php„ Ë(	
+%9"$Arrays
+q
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php„ Ë(	
+%10"__mapSet*
+
+%9*
+xmin*	
+
+$xmins
+q
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php„ Ë(	
+%11"__mapSet*
+
+%9*
+xmax*	
+
+$xmaxs
+q
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php„ Ë(	
+%12"__mapSet*
+
+%9*
+ymin*	
+
+$ymins
+q
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php„ Ë(	
+%13"__mapSet*
+
+%9*
+ymax*	
+
+$ymax"K
+A
+5/app/iznik-server/lib/php-shapefile/src/ShapeFile.php„ Ë(
+
+
+%9B
+shapefile\shapefile

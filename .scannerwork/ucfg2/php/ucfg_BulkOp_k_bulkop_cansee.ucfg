@@ -1,0 +1,56 @@
+
+freegle\iznik\bulkop::cansee5
++/app/iznik-server/include/config/BulkOp.phpW W("1*Ó
+15
++/app/iznik-server/include/config/BulkOp.phpX X(Pi
+g
+5
++/app/iznik-server/include/config/BulkOp.phpX X(&
+%1"__id*"* 
+freegle\iznik\bulkop"
+dbhri
+g
+5
++/app/iznik-server/include/config/BulkOp.phpX( X(3
+%2"__id*"* 
+freegle\iznik\bulkop"
+dbhmk
+i
+5
++/app/iznik-server/include/config/BulkOp.phpX5 X(B
+%3"__id*$*"
+freegle\iznik\bulkop"
+bulkop_
+]
+5
++/app/iznik-server/include/config/BulkOp.phpX5 X(N
+%4"__mapGet*
+
+%3*
+
+configidXV
+5
++/app/iznik-server/include/config/BulkOp.phpX X(O
+$c"freegle\iznik\modconfig†
+ƒ
+5
++/app/iznik-server/include/config/BulkOp.phpX X(O
+%5"$freegle\iznik\modconfig::__construct*
+
+$c*
+
+%1*
+
+%2*
+
+%4OM
+5
++/app/iznik-server/include/config/BulkOp.phpY Y(
+%6*
+
+$c2cansee"?
+5
++/app/iznik-server/include/config/BulkOp.phpY Y(
+
+%6B
+freegle\iznik\bulkop

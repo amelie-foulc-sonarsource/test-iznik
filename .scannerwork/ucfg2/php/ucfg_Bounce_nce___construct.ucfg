@@ -1,0 +1,62 @@
+
+!freegle\iznik\bounce::__construct3
+)/app/iznik-server/include/mail/Bounce.php ("1*]
+2
+
+Bounce.php"J
+3
+)/app/iznik-server/include/mail/Bounce.php (
+implicit return*˜
+13
+)/app/iznik-server/include/mail/Bounce.php (j
+h
+3
+)/app/iznik-server/include/mail/Bounce.php ( 
+freegle\iznik\bounce"
+dbhr"__id*	
+
+$dbhrj
+h
+3
+)/app/iznik-server/include/mail/Bounce.php ( 
+freegle\iznik\bounce"
+dbhm"__id*	
+
+$dbhmg
+e
+3
+)/app/iznik-server/include/mail/Bounce.php ((
+%2"__id*"* 
+freegle\iznik\bounce"
+dbhrg
+e
+3
+)/app/iznik-server/include/mail/Bounce.php* (5
+%3"__id*"* 
+freegle\iznik\bounce"
+dbhmPN
+3
+)/app/iznik-server/include/mail/Bounce.php (6
+%1"freegle\iznik\logu
+s
+3
+)/app/iznik-server/include/mail/Bounce.php (6
+%4"freegle\iznik\log::__construct*
+
+%1*
+
+%2*
+
+%3f
+d
+3
+)/app/iznik-server/include/mail/Bounce.php (6
+freegle\iznik\bounce"
+log"__id*
+
+%1*
+2:
+$dbhr:
+$dbhm:
+$idB
+freegle\iznik\bounce

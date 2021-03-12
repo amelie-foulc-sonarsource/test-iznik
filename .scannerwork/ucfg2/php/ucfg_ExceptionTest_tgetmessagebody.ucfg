@@ -1,0 +1,28 @@
+
+3phpmimemailparser\exceptiontest::testgetmessagebodya
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpN N(*"1*í
+2
+ExceptionTest.php"x
+a
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpR R(	
+implicit return*¥
+1a
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpP P(#ãà
+a
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpP P("	
+$Parser"phpmimemailparser\parser†
+ù
+a
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpP P("
+%1"%phpmimemailparser\parser::__construct*
+	
+$Parserïí
+a
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpQ Q(-
+%2*
+	
+$Parser*
+
+azerty2getmessagebody*
+2B#!
+phpmimemailparser\exceptiontest

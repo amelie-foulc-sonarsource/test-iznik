@@ -1,0 +1,103 @@
+
+lightopenid::authurl,
+ /app/iznik-server/lib/openid.phpÓ Ó("1*î
+2,
+ /app/iznik-server/lib/openid.phpÕ Õ(=[
+Y
+,
+ /app/iznik-server/lib/openid.phpÕ, Õ(;
+%2"__id**
+lightopenid"
+
+identityYW
+,
+ /app/iznik-server/lib/openid.phpÕ Õ(<
+%3*
+lightopenid*
+
+%22discover*
+3*˜
+3,
+ /app/iznik-server/lib/openid.php× ×(Z
+X
+,
+ /app/iznik-server/lib/openid.php× ×(
+%4"__id**
+lightopenid"	
+version*	
+5
+6
+7*‚
+5,
+ /app/iznik-server/lib/openid.phpÙ Ù(Cd
+b
+,
+ /app/iznik-server/lib/openid.phpÙ) Ù(A
+%5"__id*&*$
+lightopenid"
+identifier_select[Y
+,
+ /app/iznik-server/lib/openid.phpÙ Ù(B
+%6*
+lightopenid*
+
+%52
+authurl_v2L
+J
+,
+ /app/iznik-server/lib/openid.phpÙ Ù(C
+%6string"__id*
+
+%6">
+,
+ /app/iznik-server/lib/openid.phpÙ Ù(C
+
+%6string*¬
+6,
+ /app/iznik-server/lib/openid.phpÛ Û(9ki
+,
+ /app/iznik-server/lib/openid.phpÛ Û(8
+%7*
+lightopenid*
+
+$identifier_select2
+authurl_v2L
+J
+,
+ /app/iznik-server/lib/openid.phpÛ Û(9
+%7string"__id*
+
+%7">
+,
+ /app/iznik-server/lib/openid.phpÛ Û(9
+
+%7string*”
+7,
+ /app/iznik-server/lib/openid.phpÝ Ý(#SQ
+,
+ /app/iznik-server/lib/openid.phpÝ Ý("
+%8*
+lightopenid2
+authurl_v1L
+J
+,
+ /app/iznik-server/lib/openid.phpÝ Ý(#
+%8string"__id*
+
+%8">
+,
+ /app/iznik-server/lib/openid.phpÝ Ý(#
+
+%8string*”
+1,
+ /app/iznik-server/lib/openid.phpÕ Õ(Y
+W
+,
+ /app/iznik-server/lib/openid.phpÕ Õ(
+%1"__id**
+lightopenid"
+server*
+2
+3:
+$identifier_selectB
+lightopenid

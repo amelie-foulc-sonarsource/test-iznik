@@ -1,0 +1,83 @@
+
+#freegle\iznik\newsfeed::__construct9
+//app/iznik-server/include/newsfeed/Newsfeed.php! !("1*e
+2
+Newsfeed.php"P
+9
+//app/iznik-server/include/newsfeed/Newsfeed.php( ((
+implicit return*˚
+19
+//app/iznik-server/include/newsfeed/Newsfeed.php# #(p
+n
+9
+//app/iznik-server/include/newsfeed/Newsfeed.php! !(
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdop
+n
+9
+//app/iznik-server/include/newsfeed/Newsfeed.php! !(
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdor
+p
+9
+//app/iznik-server/include/newsfeed/Newsfeed.php# #("
+freegle\iznik\newsfeed"
+dbhr"__id*	
+
+$dbhrr
+p
+9
+//app/iznik-server/include/newsfeed/Newsfeed.php$ $("
+freegle\iznik\newsfeed"
+dbhm"__id*	
+
+$dbhmVT
+9
+//app/iznik-server/include/newsfeed/Newsfeed.php% %(*
+%1"freegle\iznik\logÅ
+
+9
+//app/iznik-server/include/newsfeed/Newsfeed.php% %(*
+%2"freegle\iznik\log::__construct*
+
+%1*	
+
+$dbhr*	
+
+$dbhmn
+l
+9
+//app/iznik-server/include/newsfeed/Newsfeed.php% %(*!
+freegle\iznik\newsfeed"
+log"__id*
+
+%1u
+s
+9
+//app/iznik-server/include/newsfeed/Newsfeed.php'< '(M
+%3"__id***(
+freegle\iznik\newsfeed"
+
+publicatts¶£
+9
+//app/iznik-server/include/newsfeed/Newsfeed.php' '(N
+%4*
+freegle\iznik\newsfeed*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+
+newsfeed*
+feed*
+
+%32fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\newsfeed

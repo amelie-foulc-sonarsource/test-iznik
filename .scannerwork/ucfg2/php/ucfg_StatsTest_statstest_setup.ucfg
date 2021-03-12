@@ -1,0 +1,55 @@
+
+freegle\iznik\statstest::setup=
+3/app/iznik-server/test/ut/php/include/StatsTest.php ("1*j
+2
+StatsTest.php"T
+=
+3/app/iznik-server/test/ut/php/include/StatsTest.php (
+implicit return*“
+1=
+3/app/iznik-server/test/ut/php/include/StatsTest.php (â
+Ü
+=
+3/app/iznik-server/test/ut/php/include/StatsTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\statstestw
+u
+=
+3/app/iznik-server/test/ut/php/include/StatsTest.php (#
+freegle\iznik\statstest"
+dbhr"__id*	
+
+$dbhrw
+u
+=
+3/app/iznik-server/test/ut/php/include/StatsTest.php (#
+freegle\iznik\statstest"
+dbhm"__id*	
+
+$dbhmt
+r
+=
+3/app/iznik-server/test/ut/php/include/StatsTest.php (
+%2"__id*%*#
+freegle\iznik\statstest"
+dbhmçä
+=
+3/app/iznik-server/test/ut/php/include/StatsTest.php (N
+%3*
+
+%2*53
+1DELETE FROM groups WHERE nameshort = 'testgroup';2exect
+r
+=
+3/app/iznik-server/test/ut/php/include/StatsTest.php (
+%4"__id*%*#
+freegle\iznik\statstest"
+dbhméã
+=
+3/app/iznik-server/test/ut/php/include/StatsTest.php (O
+%5*
+
+%4*31
+/DELETE FROM users WHERE fullname = 'Test User';2preexec*
+2B
+freegle\iznik\statstest

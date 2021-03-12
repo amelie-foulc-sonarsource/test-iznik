@@ -1,0 +1,97 @@
+
++freegle\iznik\chatroomstest::testemojisplitC
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php® ®(""1*t
+2
+chatRoomsTest.php"Z
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php· ·(	
+implicit return*‘
+1C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php° °(4~
+|
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php° °(%
+%1"__id*)*'
+freegle\iznik\chatroomstest"
+dbhr~
+|
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php°' °(2
+%2"__id*)*'
+freegle\iznik\chatroomstest"
+dbhmec
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php° °(3
+$r"freegle\iznik\chatroom‹
+ˆ
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php° °(3
+%3"#freegle\iznik\chatroom::__construct*
+
+$r*
+
+%1*
+
+%2ki
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php²# ²(9
+%4*
+
+$r*
+Test2
+splitemojiš
+—
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php² ²(:
+%5" freegle\iznik\self::assertequals*"
+freegle\iznik\self*
+Test*
+
+%4rp
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php³* ³(G
+%6*
+
+$r*
+\\u1f923\\u2
+splitemoji¡
+ž
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php³ ³(H
+%7" freegle\iznik\self::assertequals*"
+freegle\iznik\self*
+\\u1f923\\u*
+
+%6vt
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php´# ´(D
+%8*
+
+$r*
+Test\\u1f923\\u2
+splitemojiš
+—
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.php´ ´(E
+%9" freegle\iznik\self::assertequals*"
+freegle\iznik\self*
+Test*
+
+%8wu
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.phpµ# µ(D
+%10*
+
+$r*
+\\u1f923\\uTest2
+splitemojiœ
+™
+C
+7/app/iznik-server/test/ut/php/include/chatRoomsTest.phpµ µ(E
+%11" freegle\iznik\self::assertequals*"
+freegle\iznik\self*
+Test*
+
+%10*
+2B
+freegle\iznik\chatroomstest

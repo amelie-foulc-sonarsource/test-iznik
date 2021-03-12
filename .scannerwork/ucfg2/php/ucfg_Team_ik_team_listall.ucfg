@@ -1,0 +1,34 @@
+
+freegle\iznik\team::listall1
+'/app/iznik-server/include/user/Team.php< <("1*ü
+11
+'/app/iznik-server/include/user/Team.php= =(\c
+a
+1
+'/app/iznik-server/include/user/Team.php= =(
+%1"__id* *
+freegle\iznik\team"
+dbhrCA
+1
+'/app/iznik-server/include/user/Team.php=X =(Z
+%2"$Array‰†
+1
+'/app/iznik-server/include/user/Team.php= =([
+%3*
+
+%1*1/
+-SELECT * FROM teams ORDER BY LOWER(name) ASC;*
+
+%22prequeryM
+K
+1
+'/app/iznik-server/include/user/Team.php= =([
+$teams"__id*
+
+%3"?
+1
+'/app/iznik-server/include/user/Team.php? ?(
+
+
+$teamsB
+freegle\iznik\team

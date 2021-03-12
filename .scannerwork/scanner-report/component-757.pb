@@ -1,0 +1,1 @@
+õ 2phpXhr)scripts/migrate/migrate_fd_purge_logs.php

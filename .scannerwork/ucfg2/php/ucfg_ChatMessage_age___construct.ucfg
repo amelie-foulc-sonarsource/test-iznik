@@ -1,0 +1,73 @@
+
+&freegle\iznik\chatmessage::__construct8
+./app/iznik-server/include/chat/ChatMessage.php& &("1*g
+2
+ChatMessage.php"O
+8
+./app/iznik-server/include/chat/ChatMessage.php* *(
+implicit return*®
+18
+./app/iznik-server/include/chat/ChatMessage.php( ((eo
+m
+8
+./app/iznik-server/include/chat/ChatMessage.php& &(
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdoo
+m
+8
+./app/iznik-server/include/chat/ChatMessage.php& &(
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdow
+u
+8
+./app/iznik-server/include/chat/ChatMessage.php(H ((Y
+%1"__id*-*+
+freegle\iznik\chatmessage"
+
+publicattsÂ¿
+8
+./app/iznik-server/include/chat/ChatMessage.php( ((d
+%2*
+freegle\iznik\chatmessage*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+chat_messages*
+chatmessage*
+
+%1*
+
+
+$fetched2fetchUS
+8
+./app/iznik-server/include/chat/ChatMessage.php) )(*
+%3"freegle\iznik\log€
+~
+8
+./app/iznik-server/include/chat/ChatMessage.php) )(*
+%4"freegle\iznik\log::__construct*
+
+%3*	
+
+$dbhr*	
+
+$dbhmp
+n
+8
+./app/iznik-server/include/chat/ChatMessage.php) )(*$
+freegle\iznik\chatmessage"
+log"__id*
+
+%3*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$id:
+
+$fetchedB
+freegle\iznik\chatmessage

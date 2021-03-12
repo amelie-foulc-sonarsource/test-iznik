@@ -1,0 +1,37 @@
+
+#freegle\iznik\addressapitest::setup;
+1/app/iznik-server/test/ut/php/api/addressTest.php ("1*j
+2
+addressTest.php"R
+;
+1/app/iznik-server/test/ut/php/api/addressTest.php   (
+implicit return*‡
+1;
+1/app/iznik-server/test/ut/php/api/addressTest.php (è
+å
+;
+1/app/iznik-server/test/ut/php/api/addressTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup* 
+freegle\iznik\addressapitestz
+x
+;
+1/app/iznik-server/test/ut/php/api/addressTest.php ((
+freegle\iznik\addressapitest"
+dbhr"__id*	
+
+$dbhrz
+x
+;
+1/app/iznik-server/test/ut/php/api/addressTest.php ((
+freegle\iznik\addressapitest"
+dbhm"__id*	
+
+$dbhméã
+;
+1/app/iznik-server/test/ut/php/api/addressTest.php (H
+%2*	
+
+$dbhm*20
+.DELETE FROM locations WHERE name LIKE 'TV13%';2preexec*
+2B 
+freegle\iznik\addressapitest

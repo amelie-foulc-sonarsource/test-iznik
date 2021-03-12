@@ -1,0 +1,101 @@
+
+#freegle\iznik\chatroom::getusername7
++/app/iznik-server/include/chat/ChatRoom.phpò ò( "1*é
+27
++/app/iznik-server/include/chat/ChatRoom.phpö ö(.q
+o
+7
++/app/iznik-server/include/chat/ChatRoom.phpö ö(#
+%3"__id*(*&
+freegle\iznik\chatroom"
+
+chatroom_
+]
+7
++/app/iznik-server/include/chat/ChatRoom.phpö ö(-
+%4"__mapGet*
+
+%3*
+
+u1nameR
+P
+7
++/app/iznik-server/include/chat/ChatRoom.phpö ö(-
+$name"__id*
+
+%4*
+5*—
+37
++/app/iznik-server/include/chat/ChatRoom.php÷ ÷(3q
+o
+7
++/app/iznik-server/include/chat/ChatRoom.php÷ ÷(*
+%5"__id*(*&
+freegle\iznik\chatroom"
+
+chatroom^
+\
+7
++/app/iznik-server/include/chat/ChatRoom.php÷ ÷(3
+%6"__mapGet*
+
+%5*	
+user2*
+4
+5*é
+47
++/app/iznik-server/include/chat/ChatRoom.phpø ø(.q
+o
+7
++/app/iznik-server/include/chat/ChatRoom.phpø ø(#
+%7"__id*(*&
+freegle\iznik\chatroom"
+
+chatroom_
+]
+7
++/app/iznik-server/include/chat/ChatRoom.phpø ø(-
+%8"__mapGet*
+
+%7*
+
+u2nameR
+P
+7
++/app/iznik-server/include/chat/ChatRoom.phpø ø(-
+$name"__id*
+
+%8*
+5*‚
+57
++/app/iznik-server/include/chat/ChatRoom.phpû û("D
+7
++/app/iznik-server/include/chat/ChatRoom.phpû û(	
+
+$name*ó
+17
++/app/iznik-server/include/chat/ChatRoom.phpó ó(Z
+X
+7
++/app/iznik-server/include/chat/ChatRoom.phpó ó(
+$name"__id*
+
+A freeglerq
+o
+7
++/app/iznik-server/include/chat/ChatRoom.phpõ õ(#
+%1"__id*(*&
+freegle\iznik\chatroom"
+
+chatroom^
+\
+7
++/app/iznik-server/include/chat/ChatRoom.phpõ õ(,
+%2"__mapGet*
+
+%1*	
+user1*
+2
+3:
+$uidB
+freegle\iznik\chatroom

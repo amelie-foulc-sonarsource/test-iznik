@@ -1,0 +1,182 @@
+
+%freegle\iznik\mailrouter::__construct7
+-/app/iznik-server/include/mail/MailRouter.php4 4("1*ÿ
+27
+-/app/iznik-server/include/mail/MailRouter.php= =(Dp
+n
+7
+-/app/iznik-server/include/mail/MailRouter.php=% =(0
+%12"__id*&*$
+freegle\iznik\mailrouter"
+dbhrp
+n
+7
+-/app/iznik-server/include/mail/MailRouter.php=2 =(=
+%13"__id*&*$
+freegle\iznik\mailrouter"
+dbhmYW
+7
+-/app/iznik-server/include/mail/MailRouter.php= =(C
+%11"freegle\iznik\message‹
+ˆ
+7
+-/app/iznik-server/include/mail/MailRouter.php= =(C
+%14""freegle\iznik\message::__construct*
+
+%11*
+
+%12*
+
+%13*
+
+$ido
+m
+7
+-/app/iznik-server/include/mail/MailRouter.php= =(C#
+freegle\iznik\mailrouter"
+msg"__id*
+
+%11*
+4*õ
+37
+-/app/iznik-server/include/mail/MailRouter.php? ?(?p
+n
+7
+-/app/iznik-server/include/mail/MailRouter.php?% ?(0
+%16"__id*&*$
+freegle\iznik\mailrouter"
+dbhrp
+n
+7
+-/app/iznik-server/include/mail/MailRouter.php?2 ?(=
+%17"__id*&*$
+freegle\iznik\mailrouter"
+dbhmYW
+7
+-/app/iznik-server/include/mail/MailRouter.php? ?(>
+%15"freegle\iznik\message
+
+7
+-/app/iznik-server/include/mail/MailRouter.php? ?(>
+%18""freegle\iznik\message::__construct*
+
+%15*
+
+%16*
+
+%17o
+m
+7
+-/app/iznik-server/include/mail/MailRouter.php? ?(>#
+freegle\iznik\mailrouter"
+msg"__id*
+
+%15*
+4*e
+4
+MailRouter.php"N
+7
+-/app/iznik-server/include/mail/MailRouter.phpA A(
+implicit return*‘
+17
+-/app/iznik-server/include/mail/MailRouter.php6 6(r
+p
+7
+-/app/iznik-server/include/mail/MailRouter.php6 6($
+freegle\iznik\mailrouter"
+dbhr"__id*	
+
+$dbhrr
+p
+7
+-/app/iznik-server/include/mail/MailRouter.php7 7($
+freegle\iznik\mailrouter"
+dbhm"__id*	
+
+$dbhmo
+m
+7
+-/app/iznik-server/include/mail/MailRouter.php8 8((
+%2"__id*&*$
+freegle\iznik\mailrouter"
+dbhro
+m
+7
+-/app/iznik-server/include/mail/MailRouter.php8* 8(5
+%3"__id*&*$
+freegle\iznik\mailrouter"
+dbhmTR
+7
+-/app/iznik-server/include/mail/MailRouter.php8 8(6
+%1"freegle\iznik\logy
+w
+7
+-/app/iznik-server/include/mail/MailRouter.php8 8(6
+%4"freegle\iznik\log::__construct*
+
+%1*
+
+%2*
+
+%3n
+l
+7
+-/app/iznik-server/include/mail/MailRouter.php8 8(6#
+freegle\iznik\mailrouter"
+log"__id*
+
+%1HF
+7
+-/app/iznik-server/include/mail/MailRouter.php9 9( 
+%5"spamc]
+[
+7
+-/app/iznik-server/include/mail/MailRouter.php9 9( 
+%6"spamc::__construct*
+
+%5p
+n
+7
+-/app/iznik-server/include/mail/MailRouter.php9 9( %
+freegle\iznik\mailrouter"
+spamc"__id*
+
+%5o
+m
+7
+-/app/iznik-server/include/mail/MailRouter.php: :(*
+%8"__id*&*$
+freegle\iznik\mailrouter"
+dbhro
+m
+7
+-/app/iznik-server/include/mail/MailRouter.php:, :(7
+%9"__id*&*$
+freegle\iznik\mailrouter"
+dbhmUS
+7
+-/app/iznik-server/include/mail/MailRouter.php: :(8
+%7"freegle\iznik\spam{
+y
+7
+-/app/iznik-server/include/mail/MailRouter.php: :(8
+%10"freegle\iznik\spam::__construct*
+
+%7*
+
+%8*
+
+%9o
+m
+7
+-/app/iznik-server/include/mail/MailRouter.php: :(8$
+freegle\iznik\mailrouter"
+spam"__id*
+
+%7*
+2
+3:
+$dbhr:
+$dbhm:
+$idB
+freegle\iznik\mailrouter

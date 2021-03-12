@@ -1,0 +1,49 @@
+
+%freegle\iznik\usersearch::__construct7
+-/app/iznik-server/include/user/UserSearch.php ("1*e
+2
+UserSearch.php"N
+7
+-/app/iznik-server/include/user/UserSearch.php (
+implicit return*É
+17
+-/app/iznik-server/include/user/UserSearch.php (Wn
+l
+7
+-/app/iznik-server/include/user/UserSearch.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdon
+l
+7
+-/app/iznik-server/include/user/UserSearch.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdou
+s
+7
+-/app/iznik-server/include/user/UserSearch.phpD (U
+%1"__id*,**
+freegle\iznik\usersearch"
+
+publicatts®«
+7
+-/app/iznik-server/include/user/UserSearch.php (V
+%2*
+freegle\iznik\usersearch*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+users_searches*
+
+search*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\usersearch

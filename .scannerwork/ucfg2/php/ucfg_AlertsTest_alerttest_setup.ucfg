@@ -1,0 +1,43 @@
+
+freegle\iznik\alerttest::setup>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php ("1*l
+2
+AlertsTest.php"U
+>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php (
+implicit return*Ð
+1>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php (Š
+‡
+>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\alerttestx
+v
+>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php (#
+freegle\iznik\alerttest"
+dbhr"__id*	
+
+$dbhrx
+v
+>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php (#
+freegle\iznik\alerttest"
+dbhm"__id*	
+
+$dbhmu
+s
+>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php (
+%2"__id*%*#
+freegle\iznik\alerttest"
+dbhmŠ
+>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php (M
+%3*
+
+%2*1/
+-DELETE FROM groups WHERE `type` = 'UnitTest';2preexec*
+2B
+freegle\iznik\alerttest

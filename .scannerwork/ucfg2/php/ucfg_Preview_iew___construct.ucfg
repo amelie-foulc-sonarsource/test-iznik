@@ -1,0 +1,48 @@
+
+"freegle\iznik\preview::__construct4
+*/app/iznik-server/include/misc/Preview.php ("1*_
+2
+Preview.php"K
+4
+*/app/iznik-server/include/misc/Preview.php (
+implicit return*±
+14
+*/app/iznik-server/include/misc/Preview.php (Tk
+i
+4
+*/app/iznik-server/include/misc/Preview.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdok
+i
+4
+*/app/iznik-server/include/misc/Preview.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdoo
+m
+4
+*/app/iznik-server/include/misc/Preview.phpA (R
+%1"__id*)*'
+freegle\iznik\preview"
+
+publicatts¥¢
+4
+*/app/iznik-server/include/misc/Preview.php (S
+%2*
+freegle\iznik\preview*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+link_previews*
+link*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\preview

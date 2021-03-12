@@ -1,0 +1,40 @@
+
+"freegle\iznik\session::__construct9
+-/app/iznik-server/include/session/Session.php∂ ∂("1*d
+2
+Session.php"P
+9
+-/app/iznik-server/include/session/Session.phpπ π(
+implicit return*ç
+19
+-/app/iznik-server/include/session/Session.php∑ ∑(p
+n
+9
+-/app/iznik-server/include/session/Session.php∂ ∂(
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdop
+n
+9
+-/app/iznik-server/include/session/Session.php∂ ∂(
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdoq
+o
+9
+-/app/iznik-server/include/session/Session.php∑ ∑(!
+freegle\iznik\session"
+dbhr"__id*	
+
+$dbhrq
+o
+9
+-/app/iznik-server/include/session/Session.php∏ ∏(!
+freegle\iznik\session"
+dbhm"__id*	
+
+$dbhm*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdoB
+freegle\iznik\session

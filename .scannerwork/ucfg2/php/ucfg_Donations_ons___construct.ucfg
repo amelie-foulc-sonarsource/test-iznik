@@ -1,0 +1,50 @@
+
+$freegle\iznik\donations::__construct6
+,/app/iznik-server/include/misc/Donations.php ("1*c
+2
+Donations.php"M
+6
+,/app/iznik-server/include/misc/Donations.php (
+implicit return*ú
+16
+,/app/iznik-server/include/misc/Donations.php (m
+k
+6
+,/app/iznik-server/include/misc/Donations.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdom
+k
+6
+,/app/iznik-server/include/misc/Donations.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdop
+n
+6
+,/app/iznik-server/include/misc/Donations.php (#
+freegle\iznik\donations"
+dbhr"__id*	
+
+$dbhrp
+n
+6
+,/app/iznik-server/include/misc/Donations.php (#
+freegle\iznik\donations"
+dbhm"__id*	
+
+$dbhmv
+t
+6
+,/app/iznik-server/include/misc/Donations.php (!&
+freegle\iznik\donations"	
+groupid"__id*
+
+
+$groupid*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+
+$groupidB
+freegle\iznik\donations

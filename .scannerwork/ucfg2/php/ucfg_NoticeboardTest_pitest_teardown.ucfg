@@ -1,0 +1,29 @@
+
+*freegle\iznik\noticeboardapitest::teardown?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php( (("1*r
+2
+NoticeboardTest.php"V
+?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php+ +(
+implicit return*þ
+1?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php) )(T
+}
+?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php) )(
+%1"__id*.*,"
+ freegle\iznik\noticeboardapitest"
+dbhm”‘
+?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php) )(S
+%2*
+
+%1*75
+3DELETE FROM noticeboards WHERE name LIKE 'UTTest%';2preexecš
+—
+?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php* *(
+%3"(freegle\iznik\iznikapitestcase::teardown*$"
+ freegle\iznik\noticeboardapitest*
+2B$"
+ freegle\iznik\noticeboardapitest

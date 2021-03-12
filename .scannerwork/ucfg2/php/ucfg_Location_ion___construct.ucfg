@@ -1,0 +1,73 @@
+
+#freegle\iznik\location::__construct5
++/app/iznik-server/include/misc/Location.php ("1*a
+2
+Location.php"L
+5
++/app/iznik-server/include/misc/Location.php (
+implicit return*€
+15
++/app/iznik-server/include/misc/Location.php (Yl
+j
+5
++/app/iznik-server/include/misc/Location.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdol
+j
+5
++/app/iznik-server/include/misc/Location.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdoq
+o
+5
++/app/iznik-server/include/misc/Location.php< (M
+%1"__id***(
+freegle\iznik\location"
+
+publicatts°­
+5
++/app/iznik-server/include/misc/Location.php (X
+%2*
+freegle\iznik\location*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+	locations*
+loc*
+
+%1*
+
+
+$fetched2fetchRP
+5
++/app/iznik-server/include/misc/Location.php (*
+%3"freegle\iznik\log}
+{
+5
++/app/iznik-server/include/misc/Location.php (*
+%4"freegle\iznik\log::__construct*
+
+%3*	
+
+$dbhr*	
+
+$dbhmj
+h
+5
++/app/iznik-server/include/misc/Location.php (*!
+freegle\iznik\location"
+log"__id*
+
+%3*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$id:
+
+$fetchedB
+freegle\iznik\location

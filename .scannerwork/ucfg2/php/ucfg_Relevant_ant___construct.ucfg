@@ -1,0 +1,72 @@
+
+#freegle\iznik\relevant::__construct5
++/app/iznik-server/include/mail/Relevant.php ("1*a
+2
+Relevant.php"L
+5
++/app/iznik-server/include/mail/Relevant.php (
+implicit return*Ž
+15
++/app/iznik-server/include/mail/Relevant.php (l
+j
+5
++/app/iznik-server/include/mail/Relevant.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdol
+j
+5
++/app/iznik-server/include/mail/Relevant.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdon
+l
+5
++/app/iznik-server/include/mail/Relevant.php ("
+freegle\iznik\relevant"
+dbhr"__id*	
+
+$dbhrn
+l
+5
++/app/iznik-server/include/mail/Relevant.php ("
+freegle\iznik\relevant"
+dbhm"__id*	
+
+$dbhmk
+i
+5
++/app/iznik-server/include/mail/Relevant.php ((
+%2"__id*$*"
+freegle\iznik\relevant"
+dbhrk
+i
+5
++/app/iznik-server/include/mail/Relevant.php* (5
+%3"__id*$*"
+freegle\iznik\relevant"
+dbhmRP
+5
++/app/iznik-server/include/mail/Relevant.php (6
+%1"freegle\iznik\logw
+u
+5
++/app/iznik-server/include/mail/Relevant.php (6
+%4"freegle\iznik\log::__construct*
+
+%1*
+
+%2*
+
+%3j
+h
+5
++/app/iznik-server/include/mail/Relevant.php (6!
+freegle\iznik\relevant"
+log"__id*
+
+%1*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdoB
+freegle\iznik\relevant

@@ -1,0 +1,1 @@
+¤ 2phpXºhrscripts/cron/purge_logs.php

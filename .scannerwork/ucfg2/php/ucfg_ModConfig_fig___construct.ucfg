@@ -1,0 +1,93 @@
+
+$freegle\iznik\modconfig::__construct8
+./app/iznik-server/include/config/ModConfig.php ("1*e
+2
+ModConfig.php"O
+8
+./app/iznik-server/include/config/ModConfig.php (
+implicit return*˜	
+18
+./app/iznik-server/include/config/ModConfig.php (ao
+m
+8
+./app/iznik-server/include/config/ModConfig.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdoo
+m
+8
+./app/iznik-server/include/config/ModConfig.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdou
+s
+8
+./app/iznik-server/include/config/ModConfig.phpD (U
+%1"__id*+*)
+freegle\iznik\modconfig"
+
+publicatts¼¹
+8
+./app/iznik-server/include/config/ModConfig.php (`
+%2*
+freegle\iznik\modconfig*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+mod_configs*
+	modconfig*
+
+%1*
+
+
+$fetched2fetchx
+v
+8
+./app/iznik-server/include/config/ModConfig.php (!&
+freegle\iznik\modconfig"	
+bulkops"__id*
+
+
+$bulkopsx
+v
+8
+./app/iznik-server/include/config/ModConfig.php (!&
+freegle\iznik\modconfig"	
+stdmsgs"__id*
+
+
+$stdmsgsUS
+8
+./app/iznik-server/include/config/ModConfig.php (*
+%3"freegle\iznik\log€
+~
+8
+./app/iznik-server/include/config/ModConfig.php (*
+%4"freegle\iznik\log::__construct*
+
+%3*	
+
+$dbhr*	
+
+$dbhmn
+l
+8
+./app/iznik-server/include/config/ModConfig.php (*"
+freegle\iznik\modconfig"
+log"__id*
+
+%3*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$id:
+
+$fetched:
+
+$stdmsgs:
+
+$bulkopsB
+freegle\iznik\modconfig

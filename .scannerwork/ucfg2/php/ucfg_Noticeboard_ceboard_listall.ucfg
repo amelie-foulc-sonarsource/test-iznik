@@ -1,0 +1,22 @@
+
+"freegle\iznik\noticeboard::listallA
+5/app/iznik-server/include/noticeboard/Noticeboard.php‰ ‰("1*Ç
+1A
+5/app/iznik-server/include/noticeboard/Noticeboard.phpŠ Š({z
+x
+A
+5/app/iznik-server/include/noticeboard/Noticeboard.phpŠ Š(
+%1"__id*'*%
+freegle\iznik\noticeboard"
+dbhrµ²
+A
+5/app/iznik-server/include/noticeboard/Noticeboard.phpŠ Š(z
+%2*
+
+%1*US
+QSELECT id, name, lat, lng FROM noticeboards WHERE name IS NOT NULL AND active = 12prequery"K
+A
+5/app/iznik-server/include/noticeboard/Noticeboard.phpŠ Š({
+
+%2B
+freegle\iznik\noticeboard

@@ -1,0 +1,53 @@
+
+.freegle\iznik\volunteeringdigesttest::teardownJ
+@/app/iznik-server/test/ut/php/include/VolunteeringDigestTest.php ("1*Ñ
+2
+VolunteeringDigestTest.php"a
+J
+@/app/iznik-server/test/ut/php/include/VolunteeringDigestTest.php (
+implicit return*´	
+1J
+@/app/iznik-server/test/ut/php/include/VolunteeringDigestTest.php (¶
+£
+J
+@/app/iznik-server/test/ut/php/include/VolunteeringDigestTest.php (
+%1"%freegle\iznik\izniktestcase::teardown*(&
+$freegle\iznik\volunteeringdigesttestè
+å
+J
+@/app/iznik-server/test/ut/php/include/VolunteeringDigestTest.php (
+%2"__id*2*0&
+$freegle\iznik\volunteeringdigesttest"
+dbhm¢ü
+J
+@/app/iznik-server/test/ut/php/include/VolunteeringDigestTest.php (V
+%3*
+
+%2*:8
+6DELETE FROM volunteering WHERE title = 'Test vacancy';2preexecè
+å
+J
+@/app/iznik-server/test/ut/php/include/VolunteeringDigestTest.php (
+%4"__id*2*0&
+$freegle\iznik\volunteeringdigesttest"
+dbhm´®
+J
+@/app/iznik-server/test/ut/php/include/VolunteeringDigestTest.php (_
+%5*
+
+%4*CA
+?DELETE FROM volunteering WHERE title LIKE 'Test volunteering%';2preexecè
+å
+J
+@/app/iznik-server/test/ut/php/include/VolunteeringDigestTest.php (
+%6"__id*2*0&
+$freegle\iznik\volunteeringdigesttest"
+dbhm¢ü
+J
+@/app/iznik-server/test/ut/php/include/VolunteeringDigestTest.php (V
+%7*
+
+%6*:8
+6DELETE FROM volunteering WHERE title LIKE 'Test Op %';2preexec*
+2B(&
+$freegle\iznik\volunteeringdigesttest

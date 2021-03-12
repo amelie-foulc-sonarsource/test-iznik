@@ -1,0 +1,41 @@
+
+fb::setoptionsJ
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpv v(%"1*p
+2
+fb.php"a
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpz z(
+implicit return*π
+1J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpx x(/u
+s
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpv v(%
+
+$Options"__id*
+
+$OptionsarrayÅ
+
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpx x(.
+%1"firephp::getinstance*"	
+firephp*
+truei
+g
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpx x(.
+	$instance"__id*
+
+%1}{
+J
+@/app/iznik-server/lib/xmpp-prebind-php-master/lib/FirePHP/fb.phpy y('
+%2*
+
+	$instance*
+
+
+$Options2
+setoptions*
+2:
+$OptionsarrayB
+fb

@@ -1,0 +1,37 @@
+
+'freegle\iznik\noticeboardapitest::setup?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php ("1*r
+2
+NoticeboardTest.php"V
+?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php& &(
+implicit return*‰
+1?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php (—
+”
+?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup*$"
+ freegle\iznik\noticeboardapitestƒ
+€
+?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php" "(,"
+ freegle\iznik\noticeboardapitest"
+dbhr"__id*	
+
+$dbhmƒ
+€
+?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php# #(,"
+ freegle\iznik\noticeboardapitest"
+dbhm"__id*	
+
+$dbhm—”
+?
+5/app/iznik-server/test/ut/php/api/NoticeboardTest.php% %(M
+%2*	
+
+$dbhm*75
+3DELETE FROM noticeboards WHERE name LIKE 'UTTest%';2preexec*
+2B$"
+ freegle\iznik\noticeboardapitest

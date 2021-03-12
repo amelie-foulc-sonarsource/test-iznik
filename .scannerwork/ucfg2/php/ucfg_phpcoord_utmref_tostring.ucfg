@@ -1,0 +1,50 @@
+
+utmref::tostring.
+"/app/iznik-server/lib/phpcoord.php¸ ¸("1*Ä
+1.
+"/app/iznik-server/lib/phpcoord.php¹ º(/W
+U
+.
+"/app/iznik-server/lib/phpcoord.php¹ ¹(
+%1"__id**
+utmref"	
+lngZoneW
+U
+.
+"/app/iznik-server/lib/phpcoord.php¹  ¹(.
+%2"__id**
+utmref"	
+latZoneW
+U
+.
+"/app/iznik-server/lib/phpcoord.phpº º(
+%3"__id**
+utmref"	
+eastingX
+V
+.
+"/app/iznik-server/lib/phpcoord.phpº º(.
+%4"__id**
+utmref"
+
+northingp
+n
+.
+"/app/iznik-server/lib/phpcoord.php¹ º(.
+%5"__concat*
+
+%1*
+
+%2*
+ *
+
+%3*
+ *
+
+%4"8
+.
+"/app/iznik-server/lib/phpcoord.php¹ º(/
+
+%5B
+
+utmref

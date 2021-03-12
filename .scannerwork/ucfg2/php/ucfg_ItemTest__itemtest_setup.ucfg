@@ -1,0 +1,37 @@
+
+freegle\iznik\itemtest::setup<
+2/app/iznik-server/test/ut/php/include/ItemTest.php ("1*h
+2
+ItemTest.php"S
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php (
+implicit return*Î
+1<
+2/app/iznik-server/test/ut/php/include/ItemTest.php (‡
+„
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\itemtestu
+s
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php ("
+freegle\iznik\itemtest"
+dbhr"__id*	
+
+$dbhru
+s
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php ("
+freegle\iznik\itemtest"
+dbhm"__id*	
+
+$dbhmŠ
+<
+2/app/iznik-server/test/ut/php/include/ItemTest.php (F
+%2*	
+
+$dbhm*0.
+,DELETE FROM items WHERE name LIKE 'UTTest%';2preexec*
+2B
+freegle\iznik\itemtest

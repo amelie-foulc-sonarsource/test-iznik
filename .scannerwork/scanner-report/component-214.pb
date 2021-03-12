@@ -1,0 +1,1 @@
+Ö 2phpX¿hr(lib/geoPHP/geometry/LineString.class.php

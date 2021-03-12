@@ -1,0 +1,68 @@
+
+$freegle\iznik\dashboard::__construct;
+1/app/iznik-server/include/dashboard/Dashboard.php ("1*h
+2
+Dashboard.php"R
+;
+1/app/iznik-server/include/dashboard/Dashboard.php" "(
+implicit return*è
+1;
+1/app/iznik-server/include/dashboard/Dashboard.php (r
+p
+;
+1/app/iznik-server/include/dashboard/Dashboard.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdor
+p
+;
+1/app/iznik-server/include/dashboard/Dashboard.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdou
+s
+;
+1/app/iznik-server/include/dashboard/Dashboard.php (#
+freegle\iznik\dashboard"
+dbhr"__id*	
+
+$dbhru
+s
+;
+1/app/iznik-server/include/dashboard/Dashboard.php (#
+freegle\iznik\dashboard"
+dbhm"__id*	
+
+$dbhmq
+o
+;
+1/app/iznik-server/include/dashboard/Dashboard.php   (!
+freegle\iznik\dashboard"
+me"__id*
+
+$meZX
+;
+1/app/iznik-server/include/dashboard/Dashboard.php! !(.
+%1"freegle\iznik\stats†
+ƒ
+;
+1/app/iznik-server/include/dashboard/Dashboard.php! !(.
+%2" freegle\iznik\stats::__construct*
+
+%1*	
+
+$dbhr*	
+
+$dbhms
+q
+;
+1/app/iznik-server/include/dashboard/Dashboard.php! !(.$
+freegle\iznik\dashboard"
+stats"__id*
+
+%1*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$meB
+freegle\iznik\dashboard

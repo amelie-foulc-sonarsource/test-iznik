@@ -1,0 +1,35 @@
+
+"freegle\iznik\location::convexhull7
++/app/iznik-server/include/misc/Location.phpõ õ("1*ð
+17
++/app/iznik-server/include/misc/Location.phpö ö('NL
+7
++/app/iznik-server/include/misc/Location.phpö ö(&
+$mp"
+multipointp
+n
+7
++/app/iznik-server/include/misc/Location.phpö ö(&
+%1"multipoint::__construct*
+
+$mp*
+	
+$pointsVT
+7
++/app/iznik-server/include/misc/Location.php÷ ÷(!
+%2*
+
+$mp2
+convexhullR
+P
+7
++/app/iznik-server/include/misc/Location.php÷ ÷(!
+$hull"__id*
+
+%2"D
+7
++/app/iznik-server/include/misc/Location.phpø ø(	
+
+$hull:	
+$pointsB
+freegle\iznik\location

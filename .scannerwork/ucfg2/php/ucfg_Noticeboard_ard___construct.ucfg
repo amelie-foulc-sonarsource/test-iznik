@@ -1,0 +1,48 @@
+
+&freegle\iznik\noticeboard::__construct?
+5/app/iznik-server/include/noticeboard/Noticeboard.php ("1*n
+2
+Noticeboard.php"V
+?
+5/app/iznik-server/include/noticeboard/Noticeboard.php (
+implicit return*ö
+1?
+5/app/iznik-server/include/noticeboard/Noticeboard.php (Zv
+t
+?
+5/app/iznik-server/include/noticeboard/Noticeboard.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdov
+t
+?
+5/app/iznik-server/include/noticeboard/Noticeboard.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdo~
+|
+?
+5/app/iznik-server/include/noticeboard/Noticeboard.phpG (X
+%1"__id*-*+
+freegle\iznik\noticeboard"
+
+publicattsº·
+?
+5/app/iznik-server/include/noticeboard/Noticeboard.php (Y
+%2*
+freegle\iznik\noticeboard*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+noticeboards*
+noticeboard*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\noticeboard

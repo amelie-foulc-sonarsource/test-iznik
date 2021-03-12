@@ -1,0 +1,44 @@
+
+#freegle\iznik\stdmessage::getpublic9
+//app/iznik-server/include/config/StdMessage.phpI I("1*©
+29
+//app/iznik-server/include/config/StdMessage.phpN N( d
+b
+9
+//app/iznik-server/include/config/StdMessage.phpN N(
+%3"__mapRemove*
+
+$ret*
+body*
+3*…
+39
+//app/iznik-server/include/config/StdMessage.phpP P("E
+9
+//app/iznik-server/include/config/StdMessage.phpP P(
+
+$ret*ˆ
+19
+//app/iznik-server/include/config/StdMessage.phpJ J(1w
+u
+9
+//app/iznik-server/include/config/StdMessage.phpJ J(/
+%1"__id*,**
+freegle\iznik\stdmessage"
+
+publicattsrp
+9
+//app/iznik-server/include/config/StdMessage.phpJ J(0
+%2*
+freegle\iznik\stdmessage*
+
+%12getattsS
+Q
+9
+//app/iznik-server/include/config/StdMessage.phpJ J(0
+$ret"__id*
+
+%2*
+2
+3:
+$stdmsgbodyB
+freegle\iznik\stdmessage

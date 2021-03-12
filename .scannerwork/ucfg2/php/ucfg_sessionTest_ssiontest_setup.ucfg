@@ -1,0 +1,54 @@
+
+ freegle\iznik\sessiontest::setup;
+1/app/iznik-server/test/ut/php/api/sessionTest.php ("1*j
+2
+sessionTest.php"R
+;
+1/app/iznik-server/test/ut/php/api/sessionTest.php (
+implicit return* 
+1;
+1/app/iznik-server/test/ut/php/api/sessionTest.php (Œ
+‰
+;
+1/app/iznik-server/test/ut/php/api/sessionTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup*
+freegle\iznik\sessiontestw
+u
+;
+1/app/iznik-server/test/ut/php/api/sessionTest.php (%
+freegle\iznik\sessiontest"
+dbhr"__id*	
+
+$dbhrw
+u
+;
+1/app/iznik-server/test/ut/php/api/sessionTest.php (%
+freegle\iznik\sessiontest"
+dbhm"__id*	
+
+$dbhmMK
+;
+1/app/iznik-server/test/ut/php/api/sessionTest.php (
+%2"$Arrayx
+v
+;
+1/app/iznik-server/test/ut/php/api/sessionTest.php ()
+freegle\iznik\sessiontest"
+
+msgsSent"__id*
+
+%2t
+r
+;
+1/app/iznik-server/test/ut/php/api/sessionTest.php (
+%3"__id*'*%
+freegle\iznik\sessiontest"
+dbhm˜•
+;
+1/app/iznik-server/test/ut/php/api/sessionTest.php ([
+%4*
+
+%3*?=
+;DELETE FROM users_push_notifications WHERE `type` = 'Test';2preexec*
+2B
+freegle\iznik\sessiontest

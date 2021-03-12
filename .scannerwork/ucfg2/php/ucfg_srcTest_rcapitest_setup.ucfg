@@ -1,0 +1,37 @@
+
+freegle\iznik\srcapitest::setup7
+-/app/iznik-server/test/ut/php/api/srcTest.php ("1*b
+2
+srcTest.php"N
+7
+-/app/iznik-server/test/ut/php/api/srcTest.php   (
+implicit return*¹
+17
+-/app/iznik-server/test/ut/php/api/srcTest.php (‡
+„
+7
+-/app/iznik-server/test/ut/php/api/srcTest.php (
+%1"%freegle\iznik\iznikapitestcase::setup*
+freegle\iznik\srcapitestr
+p
+7
+-/app/iznik-server/test/ut/php/api/srcTest.php ($
+freegle\iznik\srcapitest"
+dbhr"__id*	
+
+$dbhrr
+p
+7
+-/app/iznik-server/test/ut/php/api/srcTest.php ($
+freegle\iznik\srcapitest"
+dbhm"__id*	
+
+$dbhmƒ€
+7
+-/app/iznik-server/test/ut/php/api/srcTest.php (A
+%2*	
+
+$dbhm**(
+&DELETE FROM logs_src WHERE src = 'UT';2prequery*
+2B
+freegle\iznik\srcapitest

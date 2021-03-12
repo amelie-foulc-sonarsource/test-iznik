@@ -1,0 +1,58 @@
+
+auth_sasl_crammd5::getresponseQ
+G/app/iznik-server/lib/xmpp-prebind-php-master/lib/Auth/SASL/CramMD5.php? ?("1*¿
+1Q
+G/app/iznik-server/lib/xmpp-prebind-php-master/lib/Auth/SASL/CramMD5.phpA A(@w
+u
+Q
+G/app/iznik-server/lib/xmpp-prebind-php-master/lib/Auth/SASL/CramMD5.php? ?(
+$user"__id*
+
+$userstringw
+u
+Q
+G/app/iznik-server/lib/xmpp-prebind-php-master/lib/Auth/SASL/CramMD5.php? ?(
+$pass"__id*
+
+$passstringÅ
+
+Q
+G/app/iznik-server/lib/xmpp-prebind-php-master/lib/Auth/SASL/CramMD5.php? ?(
+
+$challenge"__id*
+
+
+$challengestringòï
+Q
+G/app/iznik-server/lib/xmpp-prebind-php-master/lib/Auth/SASL/CramMD5.phpA A(?
+%1*
+auth_sasl_crammd5*	
+
+$pass*
+
+
+$challenge2hmac_md5
+}
+Q
+G/app/iznik-server/lib/xmpp-prebind-php-master/lib/Auth/SASL/CramMD5.phpA A(?
+%2"__concat*	
+
+$user*
+ *
+
+%1q
+o
+Q
+G/app/iznik-server/lib/xmpp-prebind-php-master/lib/Auth/SASL/CramMD5.phpA A(@
+%2string"__id*
+
+%2"c
+Q
+G/app/iznik-server/lib/xmpp-prebind-php-master/lib/Auth/SASL/CramMD5.phpA A(@
+
+%2string:
+$userstring:
+$passstring:
+
+$challengestringB
+auth_sasl_crammd5

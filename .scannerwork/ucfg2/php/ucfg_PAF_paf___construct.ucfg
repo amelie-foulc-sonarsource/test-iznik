@@ -1,0 +1,40 @@
+
+freegle\iznik\paf::__construct0
+&/app/iznik-server/include/misc/PAF.php ("1*W
+2	
+PAF.php"G
+0
+&/app/iznik-server/include/misc/PAF.php! !(
+implicit return*Ø
+10
+&/app/iznik-server/include/misc/PAF.php (g
+e
+0
+&/app/iznik-server/include/misc/PAF.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdog
+e
+0
+&/app/iznik-server/include/misc/PAF.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdod
+b
+0
+&/app/iznik-server/include/misc/PAF.php (
+freegle\iznik\paf"
+dbhr"__id*	
+
+$dbhrd
+b
+0
+&/app/iznik-server/include/misc/PAF.php   (
+freegle\iznik\paf"
+dbhm"__id*	
+
+$dbhm*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdoB
+freegle\iznik\paf

@@ -1,0 +1,1 @@
+â 2phpXhr#scripts/fix/triggerapplications.php

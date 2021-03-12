@@ -1,0 +1,43 @@
+
+)shapefile\shapefileexception::__constructH
+>/app/iznik-server/lib/php-shapefile/src/ShapeFileException.php ("1*~
+2
+ShapeFileException.php"_
+H
+>/app/iznik-server/lib/php-shapefile/src/ShapeFileException.php (
+implicit return*¨
+1H
+>/app/iznik-server/lib/php-shapefile/src/ShapeFileException.php ((„
+
+H
+>/app/iznik-server/lib/php-shapefile/src/ShapeFileException.php (
+	$previous"__id*"
+ 
+	$previousshapefile\exception”
+‘
+H
+>/app/iznik-server/lib/php-shapefile/src/ShapeFileException.php ('.
+shapefile\shapefileexception"
+
+error_type"__id*
+
+$error_typeµ
+²
+H
+>/app/iznik-server/lib/php-shapefile/src/ShapeFileException.php (7
+%1"exception::__construct* 
+shapefile\shapefileexception*
+
+
+$message*	
+
+$code*
+
+	$previous*
+2:
+
+$message:
+$code:
+$error_type: 
+	$previousshapefile\exceptionB 
+shapefile\shapefileexception

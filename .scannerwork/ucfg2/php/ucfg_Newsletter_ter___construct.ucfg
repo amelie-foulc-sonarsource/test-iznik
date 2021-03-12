@@ -1,0 +1,81 @@
+
+%freegle\iznik\newsletter::__construct7
+-/app/iznik-server/include/mail/Newsletter.php ("1*e
+2
+Newsletter.php"N
+7
+-/app/iznik-server/include/mail/Newsletter.php (
+implicit return*í
+17
+-/app/iznik-server/include/mail/Newsletter.php (Xn
+l
+7
+-/app/iznik-server/include/mail/Newsletter.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdon
+l
+7
+-/app/iznik-server/include/mail/Newsletter.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdou
+s
+7
+-/app/iznik-server/include/mail/Newsletter.phpE (V
+%1"__id*,**
+freegle\iznik\newsletter"
+
+publicatts¯¬
+7
+-/app/iznik-server/include/mail/Newsletter.php (W
+%2*
+freegle\iznik\newsletter*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+newsletters*
+
+newsletter*
+
+%12fetcho
+m
+7
+-/app/iznik-server/include/mail/Newsletter.php ((
+%4"__id*&*$
+freegle\iznik\newsletter"
+dbhro
+m
+7
+-/app/iznik-server/include/mail/Newsletter.php* (5
+%5"__id*&*$
+freegle\iznik\newsletter"
+dbhmTR
+7
+-/app/iznik-server/include/mail/Newsletter.php (6
+%3"freegle\iznik\logy
+w
+7
+-/app/iznik-server/include/mail/Newsletter.php (6
+%6"freegle\iznik\log::__construct*
+
+%3*
+
+%4*
+
+%5n
+l
+7
+-/app/iznik-server/include/mail/Newsletter.php (6#
+freegle\iznik\newsletter"
+log"__id*
+
+%3*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\newsletter

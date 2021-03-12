@@ -1,0 +1,1 @@
+í 2phpXhr'scripts/migrate/migrate_checkgroups.php

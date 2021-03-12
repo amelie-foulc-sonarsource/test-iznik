@@ -1,0 +1,55 @@
+
+ freegle\iznik\previewtest::setup?
+5/app/iznik-server/test/ut/php/include/PreviewTest.php ("1*n
+2
+PreviewTest.php"V
+?
+5/app/iznik-server/test/ut/php/include/PreviewTest.php (
+implicit return*†
+1?
+5/app/iznik-server/test/ut/php/include/PreviewTest.php (
+Š
+?
+5/app/iznik-server/test/ut/php/include/PreviewTest.php (
+%1""freegle\iznik\izniktestcase::setup*
+freegle\iznik\previewtest{
+y
+?
+5/app/iznik-server/test/ut/php/include/PreviewTest.php (%
+freegle\iznik\previewtest"
+dbhr"__id*	
+
+$dbhr{
+y
+?
+5/app/iznik-server/test/ut/php/include/PreviewTest.php (%
+freegle\iznik\previewtest"
+dbhm"__id*	
+
+$dbhmx
+v
+?
+5/app/iznik-server/test/ut/php/include/PreviewTest.php (
+%2"__id*'*%
+freegle\iznik\previewtest"
+dbhmž›
+?
+5/app/iznik-server/test/ut/php/include/PreviewTest.php (]
+%3*
+
+%2*A?
+=DELETE FROM link_previews WHERE url = 'https://google.co.uk';2preexecx
+v
+?
+5/app/iznik-server/test/ut/php/include/PreviewTest.php (
+%4"__id*'*%
+freegle\iznik\previewtest"
+dbhm›˜
+?
+5/app/iznik-server/test/ut/php/include/PreviewTest.php (Z
+%5*
+
+%4*><
+:DELETE FROM link_previews WHERE url = 'https://google.ca';2preexec*
+2B
+freegle\iznik\previewtest

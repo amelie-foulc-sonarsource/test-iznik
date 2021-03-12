@@ -1,0 +1,48 @@
+
+ freegle\iznik\attachment::delete<
+0/app/iznik-server/include/message/Attachment.php¢ ¢("1*j
+2
+Attachment.php"S
+<
+0/app/iznik-server/include/message/Attachment.php¤ ¤(
+implicit return*—
+1<
+0/app/iznik-server/include/message/Attachment.php£ £(St
+r
+<
+0/app/iznik-server/include/message/Attachment.php£ £(
+%1"__id*&*$
+freegle\iznik\attachment"
+dbhmu
+s
+<
+0/app/iznik-server/include/message/Attachment.php£+ £(7
+%2"__id*'*%
+freegle\iznik\attachment"
+tabler
+p
+<
+0/app/iznik-server/include/message/Attachment.php£E £(N
+%3"__id*$*"
+freegle\iznik\attachment"
+idŒ
+‰
+<
+0/app/iznik-server/include/message/Attachment.php£ £(Q
+%4"__concat*
+DELETE FROM *
+ WHERE id = *
+;*
+
+%2*
+
+%3_]
+<
+0/app/iznik-server/include/message/Attachment.php£ £(R
+%5*
+
+%1*
+
+%42preexec*
+2B
+freegle\iznik\attachment

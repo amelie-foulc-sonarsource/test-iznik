@@ -1,0 +1,29 @@
+
+!freegle\iznik\alerttest::teardown>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php ("1*l
+2
+AlertsTest.php"U
+>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php   (
+implicit return*í
+1>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php (
+Š
+>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php (
+%1"%freegle\iznik\izniktestcase::teardown*
+freegle\iznik\alerttestu
+s
+>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php (
+%2"__id*%*#
+freegle\iznik\alerttest"
+dbhm›˜
+>
+4/app/iznik-server/test/ut/php/include/AlertsTest.php ([
+%3*
+
+%2*?=
+;DELETE FROM alerts WHERE subject LIKE 'UT - please ignore';2preexec*
+2B
+freegle\iznik\alerttest

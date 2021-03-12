@@ -1,0 +1,56 @@
+
+freegle\iznik\bulkop::canmodify5
++/app/iznik-server/include/config/BulkOp.phpR R("1*Ö
+15
++/app/iznik-server/include/config/BulkOp.phpS S(Pi
+g
+5
++/app/iznik-server/include/config/BulkOp.phpS S(&
+%1"__id*"* 
+freegle\iznik\bulkop"
+dbhri
+g
+5
++/app/iznik-server/include/config/BulkOp.phpS( S(3
+%2"__id*"* 
+freegle\iznik\bulkop"
+dbhmk
+i
+5
++/app/iznik-server/include/config/BulkOp.phpS5 S(B
+%3"__id*$*"
+freegle\iznik\bulkop"
+bulkop_
+]
+5
++/app/iznik-server/include/config/BulkOp.phpS5 S(N
+%4"__mapGet*
+
+%3*
+
+configidXV
+5
++/app/iznik-server/include/config/BulkOp.phpS S(O
+$c"freegle\iznik\modconfig†
+ƒ
+5
++/app/iznik-server/include/config/BulkOp.phpS S(O
+%5"$freegle\iznik\modconfig::__construct*
+
+$c*
+
+%1*
+
+%2*
+
+%4RP
+5
++/app/iznik-server/include/config/BulkOp.phpT T(
+%6*
+
+$c2	canmodify"?
+5
++/app/iznik-server/include/config/BulkOp.phpT T( 
+
+%6B
+freegle\iznik\bulkop

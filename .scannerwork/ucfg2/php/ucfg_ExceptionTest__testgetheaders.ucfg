@@ -1,0 +1,27 @@
+
+/phpmimemailparser\exceptiontest::testgetheadersa
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpD D(&"1*í
+2
+ExceptionTest.php"x
+a
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpH H(	
+implicit return*§
+1a
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpF F(#ãà
+a
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpF F("	
+$Parser"phpmimemailparser\parser†
+ù
+a
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpF F("
+%1"%phpmimemailparser\parser::__construct*
+	
+$ParserÖÇ
+a
+W/app/iznik-server/lib/php-mime-mail-parser/php-mime-mail-parser/tests/ExceptionTest.phpG G(!
+%2*
+	
+$Parser2
+getheaders*
+2B#!
+phpmimemailparser\exceptiontest

@@ -1,0 +1,48 @@
+
+"freegle\iznik\request::__construct4
+*/app/iznik-server/include/user/Request.php ("1*_
+2
+Request.php"K
+4
+*/app/iznik-server/include/user/Request.php (
+implicit return*µ
+14
+*/app/iznik-server/include/user/Request.php (Xk
+i
+4
+*/app/iznik-server/include/user/Request.php (
+$dbhr"__id*"
+ 
+$dbhrfreegle\iznik\loggedpdok
+i
+4
+*/app/iznik-server/include/user/Request.php (
+$dbhm"__id*"
+ 
+$dbhmfreegle\iznik\loggedpdoo
+m
+4
+*/app/iznik-server/include/user/Request.phpE (V
+%1"__id*)*'
+freegle\iznik\request"
+
+publicatts©¦
+4
+*/app/iznik-server/include/user/Request.php (W
+%2*
+freegle\iznik\request*	
+
+$dbhr*	
+
+$dbhm*
+
+$id*
+users_requests*	
+request*
+
+%12fetch*
+2: 
+$dbhrfreegle\iznik\loggedpdo: 
+$dbhmfreegle\iznik\loggedpdo:
+$idB
+freegle\iznik\request
